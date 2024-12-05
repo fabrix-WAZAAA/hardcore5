@@ -603,3 +603,7 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [05Dec2024 22:40:39.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: troll_face300 has made the advancement [Getting an Upgrade]
 [05Dec2024 22:42:06.464] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: troll_face300 lost connection: Timed out
 [05Dec2024 22:42:06.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: troll_face300 left the game
+[05Dec2024 22:43:33.183] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Dec2024 22:43:33.210] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Dec2024 22:48:33.173] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Dec2024 22:48:33.195] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
