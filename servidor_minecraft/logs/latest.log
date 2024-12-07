@@ -1,74 +1,31 @@
-[14:55:03] [main/INFO]: Loading Minecraft 1.21.1 with Fabric Loader 0.16.3
-[14:55:04] [main/INFO]: Loading 4 mods:
+[19:28:19] [main/INFO]: Loading Minecraft 1.21.1 with Fabric Loader 0.16.3
+[19:28:20] [main/INFO]: Loading 4 mods:
 	- fabricloader 0.16.3
 	   \-- mixinextras 0.4.1
 	- java 21
 	- minecraft 1.21.1
-[14:55:04] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/hardcore5/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[14:55:14] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[14:55:16] [main/INFO]: Loaded 1290 recipes
-[14:55:17] [main/INFO]: Loaded 1399 advancements
-[14:55:17] [Server thread/INFO]: Starting minecraft server version 1.21.1
-[14:55:17] [Server thread/INFO]: Loading properties
-[14:55:17] [Server thread/INFO]: Default game type: SURVIVAL
-[14:55:17] [Server thread/INFO]: Generating keypair
-[14:55:18] [Server thread/INFO]: Starting Minecraft server on *:25565
-[14:55:18] [Server thread/INFO]: Using epoll channel type
-[14:55:18] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[14:55:18] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[14:55:18] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[14:55:18] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[14:55:18] [Server thread/INFO]: Preparing level "world"
-[14:55:25] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[14:55:25] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[14:55:25] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[14:55:26] [Server thread/INFO]: Time elapsed: 855 ms
-[14:55:26] [Server thread/INFO]: Done (7.764s)! For help, type "help"
-[15:17:14] [Server thread/INFO]: troll_face300[/[0:0:0:0:0:0:0:1%0]:36322] logged in with entity id 8 at (-502.69007855399576, 65.0, -488.3571411528249)
-[15:17:14] [Server thread/INFO]: troll_face300 joined the game
-[15:30:43] [Server thread/INFO]: troll_face300 has made the advancement [Not Today, Thank You]
-[15:40:36] [Server thread/INFO]: Kaneki12122011[/[0:0:0:0:0:0:0:1%0]:53744] logged in with entity id 6230 at (-569.6173291687173, 73.0, -497.52417125462506)
-[15:40:36] [Server thread/INFO]: Kaneki12122011 joined the game
-[15:40:46] [Server thread/INFO]: [Not Secure] <troll_face300> hola
-[15:45:46] [Server thread/INFO]: [Not Secure] <Kaneki12122011> duerme
-[15:46:06] [Server thread/INFO]: troll_face300 lost connection: You logged in from another location
-[15:46:06] [Server thread/INFO]: troll_face300 left the game
-[15:46:06] [Server thread/WARN]: handleDisconnection() called twice
-[15:46:08] [Server thread/INFO]: troll_face300[/[0:0:0:0:0:0:0:1%0]:44354] logged in with entity id 7296 at (-487.44513764386613, -16.0, -473.30000001192093)
-[15:46:08] [Server thread/INFO]: troll_face300 joined the game
-[15:46:10] [Server thread/INFO]: [Not Secure] <Kaneki12122011> ys
-[15:46:11] [Server thread/INFO]: [Not Secure] <Kaneki12122011> ya
-[15:46:15] [Server thread/INFO]: [Not Secure] <troll_face300> ok
-[15:49:45] [Server thread/INFO]: troll_face300 has made the advancement [Cover Me with Diamonds]
-[15:54:30] [Server thread/INFO]: [Not Secure] <troll_face300> donde estas
-[15:54:34] [Server thread/INFO]: [Not Secure] <Kaneki12122011> en la casa
-[15:57:06] [Server thread/INFO]: [Not Secure] <troll_face300> duerme
-[15:57:10] [Server thread/INFO]: [Not Secure] <Kaneki12122011> ya
-[15:57:21] [Server thread/INFO]: [Not Secure] <troll_face300> bueno
-[15:57:27] [Server thread/INFO]: [Not Secure] <troll_face300> voy a hacer mi casa
-[15:57:30] [Server thread/INFO]: [Not Secure] <Kaneki12122011> ok
-[15:58:42] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-458, y=64, z=-537} class_2338{x=-457, y=62, z=-536}
-[15:58:42] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-455, y=64, z=-534} class_2338{x=-455, y=62, z=-532}
-[15:58:42] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-455, y=64, z=-533} class_2338{x=-453, y=62, z=-533}
-[15:59:24] [Server thread/INFO]: troll_face300 lost connection: Timed out
-[15:59:24] [Server thread/INFO]: troll_face300 left the game
-[16:06:57] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[16:06:57] [Server thread/INFO]: <--[HERE]
-[16:18:39] [Server thread/INFO]: Kaneki12122011 lost connection: Timed out
-[16:18:39] [Server thread/INFO]: Kaneki12122011 left the game
-[17:55:21] [Server thread/INFO]: Kaneki12122011[/[0:0:0:0:0:0:0:1%0]:46188] logged in with entity id 13451 at (-577.3907207443966, 68.0, -503.4841899875669)
-[17:55:21] [Server thread/INFO]: Kaneki12122011 joined the game
-[18:19:04] [Server thread/INFO]: troll_face300[/[0:0:0:0:0:0:0:1%0]:49276] logged in with entity id 16998 at (-466.46091957166794, 63.0, -543.0396282338687)
-[18:19:04] [Server thread/INFO]: troll_face300 joined the game
-[18:19:36] [Server thread/INFO]: [Not Secure] <troll_face300> duerme
-[18:19:47] [Server thread/INFO]: [Not Secure] <Kaneki12122011> ok
-[18:31:35] [Server thread/INFO]: troll_face300 lost connection: Timed out
-[18:31:35] [Server thread/INFO]: troll_face300 left the game
-[18:37:24] [Server thread/INFO]: Kaneki12122011 lost connection: Timed out
-[18:37:24] [Server thread/INFO]: Kaneki12122011 left the game
-[18:37:26] [Server thread/INFO]: Kaneki12122011[/[0:0:0:0:0:0:0:1%0]:38110] logged in with entity id 21454 at (-549.8851483401959, 64.0, -507.9979731700986)
-[18:37:26] [Server thread/INFO]: Kaneki12122011 joined the game
-[18:39:43] [Server thread/INFO]: Kaneki12122011 has made the advancement [We Need to Go Deeper]
-[18:39:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9228ms or 184 ticks behind
-[18:43:48] [Server thread/INFO]: Kaneki12122011 lost connection: Timed out
-[18:43:48] [Server thread/INFO]: Kaneki12122011 left the game
+[19:28:20] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/hardcore5/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[19:28:33] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[19:28:36] [main/INFO]: Loaded 1290 recipes
+[19:28:36] [main/INFO]: Loaded 1399 advancements
+[19:28:37] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[19:28:37] [Server thread/INFO]: Loading properties
+[19:28:37] [Server thread/INFO]: Default game type: SURVIVAL
+[19:28:37] [Server thread/INFO]: Generating keypair
+[19:28:38] [Server thread/INFO]: Starting Minecraft server on *:25565
+[19:28:38] [Server thread/INFO]: Using epoll channel type
+[19:28:38] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[19:28:38] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[19:28:38] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[19:28:38] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[19:28:38] [Server thread/INFO]: Preparing level "world"
+[19:28:46] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[19:28:47] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:28:47] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:28:47] [Server thread/INFO]: Time elapsed: 767 ms
+[19:28:47] [Server thread/INFO]: Done (9.065s)! For help, type "help"
+[19:32:39] [Server thread/INFO]: troll_face300[/[0:0:0:0:0:0:0:1%0]:46722] logged in with entity id 8 at (-386.49882647838325, -23.0, -547.3534064586356)
+[19:32:39] [Server thread/INFO]: troll_face300 joined the game
+[19:35:25] [Server thread/INFO]: troll_face300 lost connection: Disconnected
+[19:35:25] [Server thread/INFO]: troll_face300 left the game
+[19:35:25] [Server thread/WARN]: handleDisconnection() called twice
