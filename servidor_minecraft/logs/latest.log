@@ -1,213 +1,27 @@
-[14:28:48] [main/INFO]: Loading Minecraft 1.21.1 with Fabric Loader 0.16.3
-[14:28:48] [main/INFO]: Loading 4 mods:
+[16:36:05] [main/INFO]: Loading Minecraft 1.21.1 with Fabric Loader 0.16.3
+[16:36:05] [main/INFO]: Loading 4 mods:
 	- fabricloader 0.16.3
 	   \-- mixinextras 0.4.1
 	- java 21
 	- minecraft 1.21.1
-[14:28:48] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/hardcore5/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[14:29:07] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[14:29:11] [main/INFO]: Loaded 1290 recipes
-[14:29:12] [main/INFO]: Loaded 1399 advancements
-[14:29:14] [Server thread/INFO]: Starting minecraft server version 1.21.1
-[14:29:14] [Server thread/INFO]: Loading properties
-[14:29:14] [Server thread/INFO]: Default game type: SURVIVAL
-[14:29:14] [Server thread/INFO]: Generating keypair
-[14:29:14] [Server thread/INFO]: Starting Minecraft server on *:25565
-[14:29:14] [Server thread/INFO]: Using epoll channel type
-[14:29:14] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[14:29:14] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[14:29:14] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[14:29:14] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[14:29:14] [Server thread/INFO]: Preparing level "world"
-[14:29:23] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[14:29:23] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[14:29:24] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[14:29:24] [Worker-Main-1/INFO]: Preparing spawn area: 77%
-[14:29:24] [Server thread/INFO]: Time elapsed: 1174 ms
-[14:29:24] [Server thread/INFO]: Done (9.693s)! For help, type "help"
-[14:42:48] [Server thread/INFO]: DaVIcHoz21[/[0:0:0:0:0:0:0:1%0]:52258] logged in with entity id 8 at (-570.0837193387375, 64.0, -500.30000001192093)
-[14:42:48] [Server thread/INFO]: DaVIcHoz21 joined the game
-[15:02:17] [Server thread/INFO]: troll_face300[/[0:0:0:0:0:0:0:1%0]:45926] logged in with entity id 3390 at (-488.82483638724176, 63.9375, -526.7414199429558)
-[15:02:17] [Server thread/INFO]: troll_face300 joined the game
-[15:02:27] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> blancoooo}
-[15:04:47] [Server thread/INFO]: troll_face300 lost connection: Timed out
-[15:04:47] [Server thread/INFO]: troll_face300 left the game
-[15:04:48] [Server thread/WARN]: handleDisconnection() called twice
-[15:07:30] [Server thread/INFO]: DaVIcHoz21 has made the advancement [Enchanter]
-[15:10:35] [Server thread/INFO]: troll_face300[/[0:0:0:0:0:0:0:1%0]:38662] logged in with entity id 4925 at (-464.0506726241467, 64.0, -538.5022338803428)
-[15:10:35] [Server thread/INFO]: troll_face300 joined the game
-[15:10:39] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> fabriiii
-[15:10:46] [Server thread/INFO]: [Not Secure] <troll_face300> hola
-[15:10:51] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> pico de diamante FORTUNA 3
-[15:10:56] [Server thread/INFO]: [Not Secure] <troll_face300> bien
-[15:11:00] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> lo encante
-[15:11:08] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> falta hierro pa yunque
-[15:11:13] [Server thread/INFO]: [Not Secure] <troll_face300> ok
-[15:11:39] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> buscare power
-[15:13:08] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> has una granja de mobs
-[15:13:36] [Server thread/INFO]: DaVIcHoz21 lost connection: Timed out
-[15:13:36] [Server thread/INFO]: DaVIcHoz21 left the game
-[15:13:36] [Server thread/WARN]: handleDisconnection() called twice
-[15:13:41] [Server thread/INFO]: Lechugaaa17[/[0:0:0:0:0:0:0:1%0]:55930] logged in with entity id 5644 at (14.5, 70.0, -55.5)
-[15:13:41] [Server thread/INFO]: Lechugaaa17 joined the game
-[15:14:02] [Server thread/INFO]: [Not Secure] <Lechugaaa17> xd
-[15:14:05] [Server thread/INFO]: troll_face300 lost connection: Timed out
-[15:14:05] [Server thread/INFO]: troll_face300 left the game
-[15:14:05] [Server thread/WARN]: handleDisconnection() called twice
-[15:14:08] [Server thread/INFO]: [Not Secure] <Lechugaaa17> m
-[15:15:39] [Server thread/INFO]: Villager class_1646['Villager'/6323, l='ServerLevel[world]', x=373.28, y=111.00, z=127.37] died, message: 'Villager suffocated in a wall'
-[15:16:30] [Server thread/INFO]: troll_face300[/[0:0:0:0:0:0:0:1%0]:43340] logged in with entity id 6683 at (-505.29031980515015, 64.0, -498.0345275958137)
-[15:16:30] [Server thread/INFO]: troll_face300 joined the game
-[15:16:54] [Server thread/INFO]: [Not Secure] <troll_face300> wazaaaaaaaaaaaaaa
-[15:17:03] [Server thread/INFO]: [Not Secure] <Lechugaaa17> titan
-[15:17:39] [Server thread/INFO]: Lechugaaa17 has made the advancement [Stone Age]
-[15:18:09] [Server thread/INFO]: Lechugaaa17 has made the advancement [Getting an Upgrade]
-[15:18:24] [Server thread/INFO]: Lechugaaa17 was slain by Zombie
-[15:18:30] [Server thread/INFO]: [Not Secure] <Lechugaaa17> tmr}}
-[15:18:31] [Server thread/INFO]: [Not Secure] <Lechugaaa17> xddd
-[15:19:07] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-69, y=88, z=-217} class_2338{x=-69, y=86, z=-218}
-[15:19:07] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-69, y=88, z=-217} class_2338{x=-69, y=86, z=-218}
-[15:19:08] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-69, y=88, z=-219} class_2338{x=-69, y=86, z=-218}
-[15:19:08] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-69, y=88, z=-219} class_2338{x=-69, y=86, z=-218}
-[15:19:08] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-69, y=88, z=-220} class_2338{x=-69, y=86, z=-218}
-[15:19:08] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-69, y=88, z=-220} class_2338{x=-69, y=86, z=-218}
-[15:19:08] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-70, y=88, z=-221} class_2338{x=-69, y=86, z=-218}
-[15:19:18] [Server thread/INFO]: [Not Secure] <troll_face300> -512.054
-[15:20:08] [Server thread/INFO]: [Not Secure] <Lechugaaa17> 0puta
-[15:20:11] [Server thread/INFO]: [Not Secure] <Lechugaaa17> 1 corazon
-[15:20:13] [Server thread/INFO]: [Not Secure] <Lechugaaa17> xdd
-[15:20:21] [Server thread/INFO]: [Not Secure] <troll_face300> anda a esas coordenadas
-[15:20:36] [Server thread/INFO]: [Not Secure] <Lechugaaa17> voy
-[15:24:31] [Server thread/INFO]: troll_face300 lost connection: Timed out
-[15:24:31] [Server thread/INFO]: troll_face300 left the game
-[15:25:42] [Server thread/INFO]: Lechugaaa17 lost connection: Timed out
-[15:25:42] [Server thread/INFO]: Lechugaaa17 left the game
-[15:33:42] [Server thread/INFO]: DaVIcHoz21[/[0:0:0:0:0:0:0:1%0]:50726] logged in with entity id 11563 at (-501.7677087815762, 63.9375, -516.2115358518995)
-[15:33:42] [Server thread/INFO]: DaVIcHoz21 joined the game
-[15:40:58] [Server thread/INFO]: DaVIcHoz21 lost connection: Timed out
-[15:40:58] [Server thread/INFO]: DaVIcHoz21 left the game
-[15:40:58] [Server thread/WARN]: handleDisconnection() called twice
-[15:42:38] [Server thread/INFO]: Kaneki12122011[/[0:0:0:0:0:0:0:1%0]:55424] logged in with entity id 13710 at (-569.661778666534, 64.0, -504.1453349811825)
-[15:42:38] [Server thread/INFO]: Kaneki12122011 joined the game
-[15:48:28] [Server thread/INFO]: DaVIcHoz21[/[0:0:0:0:0:0:0:1%0]:35960] logged in with entity id 15308 at (-492.9287313469791, 61.0, -498.99339929606407)
-[15:48:28] [Server thread/INFO]: DaVIcHoz21 joined the game
-[15:48:32] [Server thread/INFO]: [Not Secure] <Kaneki12122011> ola
-[15:48:34] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> racul
-[15:48:43] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> una cosita
-[15:48:43] [Server thread/INFO]: [Not Secure] <Kaneki12122011> voy a farmear xp al nether
-[15:48:45] [Server thread/INFO]: [Not Secure] <Kaneki12122011> dime
-[15:48:50] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> quieres pico fortuna 2=
-[15:48:59] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> rf 4 y irro 3
-[15:48:59] [Server thread/INFO]: [Not Secure] <Kaneki12122011> va
-[15:49:13] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> ven al oerewold
-[15:49:30] [Server thread/INFO]: [Not Secure] <Kaneki12122011> graciasss
-[15:49:34] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> buscare reparacion
-[15:49:36] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> tranki
-[15:49:36] [Server thread/INFO]: [Not Secure] <Kaneki12122011> va
-[15:49:42] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> era especialmente para ti XD
-[15:49:44] [Server thread/INFO]: [Not Secure] <Kaneki12122011> XD
-[15:50:30] [Server thread/INFO]: [Not Secure] <Kaneki12122011> en esta vercon como se encuentra netherite?
-[15:50:38] [Server thread/INFO]: [Not Secure] <Kaneki12122011> wtf
-[15:50:41] [Server thread/INFO]: Kaneki12122011 has made the advancement [Hidden in the Depths]
-[15:50:43] [Server thread/INFO]: [Not Secure] <Kaneki12122011> XD
-[15:50:48] [Server thread/INFO]: [Not Secure] <Kaneki12122011> aparecio alfrente del portal
-[15:50:48] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> en la capa 12 picando o explotando
-[15:50:50] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> DIAVLO
-[15:50:59] [Server thread/INFO]: [Not Secure] <Kaneki12122011> no era con un coso q se encontraba en bastions?
-[15:51:07] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> tambien
-[15:51:10] [Server thread/INFO]: [Not Secure] <Kaneki12122011> a
-[15:51:22] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> XD
-[15:52:14] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> bro
-[15:52:26] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> fortuna 3 a 22 esmeraldas XD
-[15:52:28] [Server thread/INFO]: [Not Secure] <Kaneki12122011> XD
-[15:52:32] [Server thread/INFO]: [Not Secure] <Kaneki12122011> compra
-[15:52:35] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> lo guardo o lo quito?
-[15:52:35] [Server thread/INFO]: [Not Secure] <Kaneki12122011> esta bueno
-[15:52:38] [Server thread/INFO]: [Not Secure] <Kaneki12122011> guardalo
-[15:52:41] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> ok
-[15:52:45] [Server thread/INFO]: [Not Secure] <Kaneki12122011> sacate 5 libros de fortuna ps
-[15:52:48] [Server thread/INFO]: [Not Secure] <Kaneki12122011> y ya lo cambias
-[15:52:53] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> no se puede
-[15:52:58] [Server thread/INFO]: [Not Secure] <Kaneki12122011> a
-[15:53:01] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> si le compro fue p}
-[15:53:05] [Server thread/INFO]: [Not Secure] <Kaneki12122011> XD
-[15:53:15] [Server thread/INFO]: [Not Secure] <Kaneki12122011> con fortuna 2 yo creo q basta
-[15:53:26] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> tengo 2 de fortuna 3
-[15:53:27] [Server thread/INFO]: [Not Secure] <Kaneki12122011> es mejor reparacion
-[15:53:28] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> ven
-[15:53:33] [Server thread/INFO]: [Not Secure] <Kaneki12122011> pera ando farmeando xp
-[15:53:39] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> ya fue le compre XD
-[15:53:43] [Server thread/INFO]: [Not Secure] <Kaneki12122011> XD
-[15:53:48] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-105, y=67, z=-53} class_2338{x=-110, y=65, z=-49}
-[15:53:48] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-105, y=67, z=-53} class_2338{x=-110, y=65, z=-49}
-[15:53:49] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-105, y=67, z=-53} class_2338{x=-110, y=65, z=-49}
-[15:53:49] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-105, y=67, z=-53} class_2338{x=-110, y=65, z=-49}
-[15:55:04] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> bro
-[15:55:06] [Server thread/INFO]: [Not Secure] <Kaneki12122011> dm
-[15:55:14] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> me dieron reparacion a 50 esmeraldas XD
-[15:55:17] [Server thread/INFO]: [Not Secure] <Kaneki12122011> XD
-[15:55:17] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> lo cambio
-[15:55:27] [Server thread/INFO]: [Not Secure] <Kaneki12122011> esta caro?
-[15:55:34] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> es muy caro
-[15:55:38] [Server thread/INFO]: [Not Secure] <Kaneki12122011> a bn cambialo
-[15:55:41] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> el minimo es 10 esmeraldas
-[15:55:44] [Server thread/INFO]: [Not Secure] <Kaneki12122011> XD
-[15:56:43] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-139, y=55, z=-101} class_2338{x=-136, y=52, z=-101}
-[15:56:44] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-139, y=55, z=-101} class_2338{x=-136, y=53, z=-101}
-[15:56:44] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-139, y=55, z=-101} class_2338{x=-136, y=52, z=-101}
-[15:56:50] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> tengo 1 azada XD
-[15:57:01] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> de diamante
-[15:57:04] [Server thread/INFO]: [Not Secure] <Kaneki12122011> XD
-[15:57:23] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-136, y=40, z=-116} class_2338{x=-135, y=40, z=-115}
-[15:57:23] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-135, y=39, z=-116} class_2338{x=-136, y=38, z=-116}
-[15:57:24] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-134, y=38, z=-118} class_2338{x=-136, y=40, z=-116}
-[15:59:03] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> TMR
-[15:59:06] [Server thread/INFO]: [Not Secure] <Kaneki12122011> q aso
-[15:59:18] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> ahora otro q me quiere dar fortuna 3 a 23 esmeraldas
-[15:59:21] [Server thread/INFO]: [Not Secure] <Kaneki12122011> XD
-[16:01:35] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> REPARACION A 9
-[16:01:45] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> VAMOS CARAJO
-[16:01:49] [Server thread/INFO]: [Not Secure] <Kaneki12122011> XD
-[16:02:19] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> ggez
-[16:02:53] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> quieres tu pico con reparacion y fortuna?
-[16:02:58] [Server thread/INFO]: [Not Secure] <Kaneki12122011> va
-[16:03:07] [Server thread/INFO]: [Not Secure] <Kaneki12122011> voy a encntantar mi armor
-[16:03:14] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> x2
-[16:03:41] [Server thread/INFO]: [Not Secure] <Kaneki12122011> tenes lapislasuli?
-[16:03:50] [Server thread/INFO]: [Not Secure] <Kaneki12122011> gracias
-[16:03:55] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> consegui alquimista
-[16:04:01] [Server thread/INFO]: [Not Secure] <Kaneki12122011> ww
-[16:05:09] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> tengo 7+1 libros de repa
-[16:05:15] [Server thread/INFO]: [Not Secure] <Kaneki12122011> god
-[16:05:22] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> toma 5
-[16:05:35] [Server thread/INFO]: [Not Secure] <Kaneki12122011> te la inco
-[16:05:46] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> Aya no te doy nada
-[16:05:48] [Server thread/INFO]: [Not Secure] <Kaneki12122011> XD
-[16:06:11] [Server thread/INFO]: [Not Secure] <Kaneki12122011> WTF
-[16:06:13] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> JAJAJAJ
-[16:06:14] [Server thread/INFO]: [Not Secure] <Kaneki12122011> CASI ME MUERO
-[16:06:15] [Server thread/INFO]: [Not Secure] <Kaneki12122011> XD
-[16:06:17] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> XD
-[16:06:24] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> arco power 4
-[16:06:27] [Server thread/INFO]: [Not Secure] <Kaneki12122011> XD
-[16:06:29] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> flame
-[16:06:34] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> infinidad
-[16:07:01] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> 2 stacks de hierro
-[16:07:32] [Server thread/INFO]: Kaneki12122011 has made the advancement [Enchanter]
-[16:07:35] [Server thread/INFO]: [Not Secure] <Kaneki12122011> bien
-[16:07:36] [Server thread/INFO]: [Not Secure] <Kaneki12122011> prote 4
-[16:07:43] [Server thread/INFO]: [Not Secure] <Kaneki12122011> bien
-[16:07:46] [Server thread/INFO]: [Not Secure] <Kaneki12122011> prote 4 con espinas
-[16:08:08] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> hay q hacer granja de xp
-[16:08:18] [Server thread/INFO]: [Not Secure] <Kaneki12122011> va
-[16:08:30] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> oe
-[16:08:33] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> ven
-[16:08:48] [Server thread/INFO]: [Not Secure] <Kaneki12122011> dale gracias
-[16:08:53] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> XD
-[16:09:09] [Server thread/INFO]: [Not Secure] <Kaneki12122011> cuanto te quita
-[16:09:11] [Server thread/INFO]: [Not Secure] <Kaneki12122011> ven
-[16:09:26] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> 1 cora
-[16:09:28] [Server thread/INFO]: [Not Secure] <Kaneki12122011> XD
-[16:09:34] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> y no tengo prote
-[16:09:38] [Server thread/INFO]: [Not Secure] <Kaneki12122011> xdd
-[16:09:48] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> cora y medio
+[16:36:05] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/hardcore5/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[16:36:22] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[16:36:27] [main/INFO]: Loaded 1290 recipes
+[16:36:28] [main/INFO]: Loaded 1399 advancements
+[16:36:29] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[16:36:29] [Server thread/INFO]: Loading properties
+[16:36:29] [Server thread/INFO]: Default game type: SURVIVAL
+[16:36:29] [Server thread/INFO]: Generating keypair
+[16:36:29] [Server thread/INFO]: Starting Minecraft server on *:25565
+[16:36:30] [Server thread/INFO]: Using epoll channel type
+[16:36:30] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[16:36:30] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[16:36:30] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[16:36:30] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[16:36:30] [Server thread/INFO]: Preparing level "world"
+[16:36:41] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[16:36:42] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[16:36:42] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[16:36:42] [Worker-Main-1/INFO]: Preparing spawn area: 40%
+[16:36:42] [Server thread/INFO]: Time elapsed: 1179 ms
+[16:36:42] [Server thread/INFO]: Done (12.277s)! For help, type "help"
