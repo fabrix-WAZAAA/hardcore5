@@ -29,3 +29,8 @@
 [20:56:49] [Server thread/INFO]: troll_face300 lost connection: Timed out
 [20:56:49] [Server thread/INFO]: troll_face300 left the game
 [20:56:49] [Server thread/WARN]: handleDisconnection() called twice
+[21:24:41] [Server thread/INFO]: troll_face300[/[0:0:0:0:0:0:0:1%0]:50464] logged in with entity id 2064 at (-507.5761702533997, 64.0, -500.5058266355074)
+[21:24:41] [Server thread/INFO]: troll_face300 joined the game
+[21:29:12] [Server thread/INFO]: troll_face300 lost connection: Timed out
+[21:29:12] [Server thread/INFO]: troll_face300 left the game
+[21:29:12] [Server thread/WARN]: handleDisconnection() called twice
