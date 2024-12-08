@@ -26,3 +26,6 @@
 [20:44:41] [Server thread/INFO]: Done (8.621s)! For help, type "help"
 [20:48:18] [Server thread/INFO]: troll_face300[/[0:0:0:0:0:0:0:1%0]:40540] logged in with entity id 10 at (-474.68898038727446, 63.0, -622.6015778114504)
 [20:48:18] [Server thread/INFO]: troll_face300 joined the game
+[20:56:49] [Server thread/INFO]: troll_face300 lost connection: Timed out
+[20:56:49] [Server thread/INFO]: troll_face300 left the game
+[20:56:49] [Server thread/WARN]: handleDisconnection() called twice
