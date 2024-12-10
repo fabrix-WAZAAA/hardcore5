@@ -33,3 +33,6 @@
 [22:08:36] [Server thread/INFO]: Kaneki12122011[/127.203.126.97:49809] logged in with entity id 4118 at (-314.8406232205707, 54.0, 4.936452775503251)
 [22:08:36] [Server thread/INFO]: Kaneki12122011 joined the game
 [22:11:41] [Server thread/INFO]: Kaneki12122011 has made the advancement [War Pigs]
+[23:10:21] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-226, y=75, z=-18} class_2338{x=-578, y=65, z=-509}
+[23:11:13] [Server thread/INFO]: Kaneki12122011 lost connection: Disconnected
+[23:11:13] [Server thread/INFO]: Kaneki12122011 left the game
