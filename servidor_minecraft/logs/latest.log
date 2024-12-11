@@ -20,3 +20,5 @@
 [00:59:56] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-54, y=12, z=-65} class_2338{x=-54, y=11, z=-67}
 [01:02:44] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-97, y=16, z=-42} class_2338{x=-93, y=70, z=-73}
 [01:14:23] [Server thread/INFO]: Kaneki12122011 was doomed to fall
+[01:15:29] [Server thread/INFO]: Kaneki12122011 lost connection: Disconnected
+[01:15:29] [Server thread/INFO]: Kaneki12122011 left the game
