@@ -1,35 +1,25 @@
-[00:44:38] [Server thread/INFO]: Kaneki12122011[/127.203.126.97:51031] logged in with entity id 10144 at (-500.92974231606684, 61.0, -499.05949720363895)
-[00:44:38] [Server thread/INFO]: Kaneki12122011 joined the game
-[00:51:35] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-80, y=72, z=-69} class_2338{x=-80, y=71, z=-70}
-[00:51:37] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-85, y=70, z=-72} class_2338{x=-84, y=69, z=-72}
-[00:51:38] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-85, y=71, z=-73} class_2338{x=-86, y=69, z=-73}
-[00:52:30] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-93, y=51, z=-82} class_2338{x=-92, y=50, z=-80}
-[00:53:05] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-98, y=40, z=-75} class_2338{x=-98, y=39, z=-76}
-[00:53:15] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-100, y=36, z=-77} class_2338{x=-100, y=36, z=-76}
-[00:53:36] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-106, y=32, z=-79} class_2338{x=-108, y=30, z=-81}
-[00:54:08] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-114, y=22, z=-76} class_2338{x=-113, y=20, z=-76}
-[00:56:53] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-97, y=16, z=-32} class_2338{x=-97, y=15, z=-33}
-[00:56:56] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-100, y=16, z=-35} class_2338{x=-100, y=15, z=-34}
-[00:58:30] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-64, y=16, z=-45} class_2338{x=-64, y=16, z=-44}
-[00:59:11] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-52, y=13, z=-56} class_2338{x=-50, y=11, z=-58}
-[00:59:12] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-51, y=10, z=-58} class_2338{x=-50, y=11, z=-58}
-[00:59:12] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-52, y=13, z=-56} class_2338{x=-50, y=11, z=-58}
-[00:59:12] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-52, y=13, z=-56} class_2338{x=-50, y=11, z=-58}
-[00:59:12] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-52, y=13, z=-56} class_2338{x=-50, y=11, z=-58}
-[00:59:12] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-52, y=13, z=-56} class_2338{x=-51, y=10, z=-58}
-[00:59:56] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-54, y=12, z=-65} class_2338{x=-54, y=11, z=-67}
-[01:02:44] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-97, y=16, z=-42} class_2338{x=-93, y=70, z=-73}
-[01:14:23] [Server thread/INFO]: Kaneki12122011 was doomed to fall
-[01:15:29] [Server thread/INFO]: Kaneki12122011 lost connection: Disconnected
-[01:15:29] [Server thread/INFO]: Kaneki12122011 left the game
-[02:12:00] [Server thread/INFO]: Stopping the server
-[02:12:01] [Server thread/INFO]: Stopping server
-[02:12:01] [Server thread/INFO]: Saving players
-[02:12:01] [Server thread/INFO]: Saving worlds
-[02:12:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[02:12:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[02:12:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[02:12:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[02:12:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[02:12:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[02:12:01] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[18:03:53] [main/INFO]: Loading Minecraft 1.21.1 with Fabric Loader 0.16.3
+[18:03:53] [main/INFO]: Loading 4 mods:
+	- fabricloader 0.16.3
+	   \-- mixinextras 0.4.1
+	- java 21
+	- minecraft 1.21.1
+[18:03:53] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/hardcore5/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[18:03:59] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[18:04:01] [main/INFO]: Loaded 1290 recipes
+[18:04:01] [main/INFO]: Loaded 1399 advancements
+[18:04:02] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[18:04:02] [Server thread/INFO]: Loading properties
+[18:04:02] [Server thread/INFO]: Default game type: SURVIVAL
+[18:04:02] [Server thread/INFO]: Generating keypair
+[18:04:02] [Server thread/INFO]: Starting Minecraft server on *:25565
+[18:04:02] [Server thread/INFO]: Using epoll channel type
+[18:04:02] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[18:04:02] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[18:04:02] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[18:04:02] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[18:04:02] [Server thread/INFO]: Preparing level "world"
+[18:04:05] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[18:04:06] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[18:04:06] [Server thread/INFO]: Time elapsed: 432 ms
+[18:04:06] [Server thread/INFO]: Done (3.718s)! For help, type "help"
