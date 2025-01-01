@@ -26,3 +26,16 @@
 [15:30:30] [Server thread/INFO]: troll_face300[/127.153.7.232:60745] logged in with entity id 67 at (-569.5376456992786, 64.0, -513.4546847228941)
 [15:30:30] [Server thread/INFO]: troll_face300 joined the game
 [15:40:09] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-484, y=70, z=-422} class_2338{x=-483, y=68, z=-421}
+[15:58:10] [Server thread/INFO]: troll_face300 lost connection: Disconnected
+[15:58:10] [Server thread/INFO]: troll_face300 left the game
+[15:58:31] [Server thread/INFO]: Stopping the server
+[15:58:31] [Server thread/INFO]: Stopping server
+[15:58:31] [Server thread/INFO]: Saving players
+[15:58:31] [Server thread/INFO]: Saving worlds
+[15:58:31] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[15:58:31] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[15:58:31] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[15:58:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[15:58:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[15:58:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[15:58:31] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
