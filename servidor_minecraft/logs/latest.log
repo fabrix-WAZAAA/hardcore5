@@ -27,3 +27,17 @@
 [22:06:34] [Server thread/INFO]: troll_face300[/127.153.7.232:56675] logged in with entity id 67 at (-138.2608857317307, 85.0, -61.50918808984639)
 [22:06:34] [Server thread/INFO]: troll_face300 joined the game
 [22:07:47] [Server thread/INFO]: troll_face300 has made the advancement [Hot Stuff]
+[22:28:41] [Server thread/INFO]: troll_face300 has made the advancement [The Parrots and the Bats]
+[22:28:54] [Server thread/INFO]: troll_face300 lost connection: Disconnected
+[22:28:54] [Server thread/INFO]: troll_face300 left the game
+[22:29:54] [Server thread/INFO]: Stopping the server
+[22:29:54] [Server thread/INFO]: Stopping server
+[22:29:54] [Server thread/INFO]: Saving players
+[22:29:54] [Server thread/INFO]: Saving worlds
+[22:29:54] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[22:29:55] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[22:29:55] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[22:29:55] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[22:29:55] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22:29:55] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22:29:55] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
