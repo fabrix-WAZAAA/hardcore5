@@ -1,41 +1,27 @@
-[02:09:11] [main/INFO]: Loading Minecraft 1.21.1 with Fabric Loader 0.16.3
-[02:09:11] [main/INFO]: Loading 4 mods:
+[15:26:33] [main/INFO]: Loading Minecraft 1.21.1 with Fabric Loader 0.16.3
+[15:26:33] [main/INFO]: Loading 4 mods:
 	- fabricloader 0.16.3
 	   \-- mixinextras 0.4.1
 	- java 21
 	- minecraft 1.21.1
-[02:09:12] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/hardcore5/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[02:09:18] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[02:09:21] [main/INFO]: Loaded 1290 recipes
-[02:09:21] [main/INFO]: Loaded 1399 advancements
-[02:09:22] [Server thread/INFO]: Starting minecraft server version 1.21.1
-[02:09:22] [Server thread/INFO]: Loading properties
-[02:09:22] [Server thread/INFO]: Default game type: SURVIVAL
-[02:09:22] [Server thread/INFO]: Generating keypair
-[02:09:22] [Server thread/INFO]: Starting Minecraft server on *:25565
-[02:09:22] [Server thread/INFO]: Using epoll channel type
-[02:09:22] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[02:09:22] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[02:09:22] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[02:09:22] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[02:09:22] [Server thread/INFO]: Preparing level "world"
-[02:09:26] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[02:09:27] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[02:09:27] [Server thread/INFO]: Time elapsed: 544 ms
-[02:09:27] [Server thread/INFO]: Done (4.729s)! For help, type "help"
-[02:10:50] [Server thread/INFO]: DaVIcHoz21[/127.198.79.118:57525] logged in with entity id 67 at (19.5, 69.0, -52.5)
-[02:10:50] [Server thread/INFO]: DaVIcHoz21 joined the game
-[02:11:34] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> donde era la cas
-[02:12:56] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> a
-[02:14:43] [Server thread/INFO]: DaVIcHoz21 was slain by Zombie
-[02:14:46] [Server thread/INFO]: DaVIcHoz21 lost connection: Disconnected
-[02:14:46] [Server thread/INFO]: DaVIcHoz21 left the game
-[02:16:25] [Server thread/INFO]: DaVIcHoz21[/127.198.79.118:60907] logged in with entity id 2021 at (-784.3157210859325, 68.0, -55.69999998807907)
-[02:16:25] [Server thread/INFO]: DaVIcHoz21 joined the game
-[02:19:40] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> XDDDDDDDDDDDDDDDDDDDDDD
-[02:20:43] [Server thread/WARN]: DaVIcHoz21 moved too quickly! 10.025985855227873,0.49520087700592796,1.6759129257543464
-[02:23:17] [Server thread/INFO]: troll_face300[/127.153.7.232:51757] logged in with entity id 4341 at (-524.0330297667425, 64.0, -463.90763387209734)
-[02:23:17] [Server thread/INFO]: troll_face300 joined the game
-[02:41:59] [Server thread/INFO]: DaVIcHoz21 was slain by Iron Golem
-[02:43:19] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-555, y=67, z=-467} class_2338{x=-556, y=66, z=-467}
-[02:48:35] [Server thread/WARN]: DaVIcHoz21 moved too quickly! 0.03616281886127126,-10.84955166518921,-0.5730832586441466
+[15:26:33] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/hardcore5/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[15:26:39] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[15:26:41] [main/INFO]: Loaded 1290 recipes
+[15:26:41] [main/INFO]: Loaded 1399 advancements
+[15:26:41] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[15:26:41] [Server thread/INFO]: Loading properties
+[15:26:41] [Server thread/INFO]: Default game type: SURVIVAL
+[15:26:41] [Server thread/INFO]: Generating keypair
+[15:26:41] [Server thread/INFO]: Starting Minecraft server on *:25565
+[15:26:41] [Server thread/INFO]: Using epoll channel type
+[15:26:41] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[15:26:41] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[15:26:41] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[15:26:41] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[15:26:41] [Server thread/INFO]: Preparing level "world"
+[15:26:44] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[15:26:44] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[15:26:45] [Server thread/INFO]: Time elapsed: 442 ms
+[15:26:45] [Server thread/INFO]: Done (3.060s)! For help, type "help"
+[15:27:46] [Server thread/INFO]: troll_face300[/127.153.7.232:49171] logged in with entity id 12 at (-562.7381940810536, 190.0, -499.824180240155)
+[15:27:46] [Server thread/INFO]: troll_face300 joined the game
