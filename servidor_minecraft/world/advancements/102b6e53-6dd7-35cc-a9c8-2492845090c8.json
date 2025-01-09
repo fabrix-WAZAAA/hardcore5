@@ -2273,12 +2273,6 @@
     },
     "done": true
   },
-  "minecraft:husbandry/bred_all_animals": {
-    "criteria": {
-      "minecraft:cow": "2025-01-08 22:28:41 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/building_blocks/chiseled_quartz_block_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2025-01-08 22:10:22 +0000"
@@ -2303,17 +2297,23 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_stairs_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-01-08 22:10:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bone_meal_from_bone_block": {
     "criteria": {
       "has_bone_block": "2025-01-08 22:11:37 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/quartz_stairs_from_quartz_block_stonecutting": {
+  "minecraft:husbandry/bred_all_animals": {
     "criteria": {
-      "has_quartz_block": "2025-01-08 22:10:22 +0000"
+      "minecraft:cow": "2025-01-08 22:28:41 +0000"
     },
-    "done": true
+    "done": false
   },
   "minecraft:husbandry/breed_an_animal": {
     "criteria": {
