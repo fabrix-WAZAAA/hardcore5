@@ -30,3 +30,13 @@
 [20:24:33] [Server thread/INFO]: troll_face300 joined the game
 [20:24:51] [Server thread/INFO]: DaVIcHoz21 was blown up by Creeper
 [20:27:22] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-636, y=65, z=-241} class_2338{x=-636, y=63, z=-240}
+[20:30:05] [Server thread/INFO]: DaVIcHoz21 fell from a high place
+[20:32:24] [Server thread/WARN]: DaVIcHoz21 moved too quickly! 0.0,10.098272318993622,-0.01752555160214797
+[20:34:48] [Server thread/INFO]: troll_face300 lost connection: Timed out
+[20:34:48] [Server thread/INFO]: troll_face300 left the game
+[20:34:48] [Server thread/WARN]: handleDisconnection() called twice
+[20:35:37] [Server thread/INFO]: com.mojang.authlib.GameProfile@24c748be[id=102b6e53-6dd7-35cc-a9c8-2492845090c8,name=troll_face300,properties={}] lost connection: Disconnected
+[20:36:09] [Server thread/INFO]: troll_face300 (/127.153.7.232:53023) lost connection: Disconnected
+[20:36:26] [Server thread/INFO]: troll_face300[/127.153.7.232:60489] logged in with entity id 8302 at (-562.9794115122689, 191.17675927506423, -500.37232307132)
+[20:36:26] [Server thread/INFO]: troll_face300 joined the game
+[20:37:44] [Server thread/WARN]: troll_face300 moved too quickly! 0.88921196695253,-11.728933596446751,-0.3583491875771756

@@ -148,6 +148,7 @@
       "bread": "2024-12-07 00:10:34 +0000",
       "suspicious_stew": "2024-12-09 02:13:34 +0000",
       "beef": "2024-12-07 00:01:55 +0000",
+      "baked_potato": "2025-01-09 20:29:24 +0000",
       "porkchop": "2024-12-06 23:58:50 +0000",
       "beetroot": "2024-12-07 00:25:01 +0000",
       "golden_carrot": "2024-12-07 00:58:12 +0000"
@@ -2272,6 +2273,12 @@
   "minecraft:adventure/voluntary_exile": {
     "criteria": {
       "voluntary_exile": "2025-01-09 16:45:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_deepslate": {
+    "criteria": {
+      "has_cobbled_deepslate_slab": "2025-01-09 20:29:35 +0000"
     },
     "done": true
   },
