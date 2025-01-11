@@ -432,6 +432,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-01-11 01:44:48 +0000",
       "minecraft:skeleton": "2024-12-07 15:30:50 +0000",
       "minecraft:witch": "2025-01-08 22:20:57 +0000",
       "minecraft:husk": "2025-01-10 21:15:02 +0000",
