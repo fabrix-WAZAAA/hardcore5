@@ -27,3 +27,8 @@
 [16:11:16] [Server thread/INFO]: troll_face300 joined the game
 [16:11:26] [Server thread/INFO]: DaVIcHoz21[/127.198.79.118:46095] logged in with entity id 367 at (-514.1104928744624, 68.16610926093821, -503.0730861673518)
 [16:11:26] [Server thread/INFO]: DaVIcHoz21 joined the game
+[16:52:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2083ms or 41 ticks behind
+[16:55:18] [Server thread/INFO]: [Not Secure] <troll_face300> -81.448 / 81.87500 / -61.959
+[16:59:29] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-79, y=127, z=-63} class_2338{x=-81, y=83, z=-63}
+[17:06:37] [Server thread/INFO]: DaVIcHoz21 lost connection: Disconnected
+[17:06:37] [Server thread/INFO]: DaVIcHoz21 left the game
