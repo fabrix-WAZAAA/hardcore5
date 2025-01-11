@@ -1,166 +1,256 @@
-[16:10:49] [main/INFO]: Loading Minecraft 1.21.1 with Fabric Loader 0.16.3
-[16:10:49] [main/INFO]: Loading 4 mods:
+[17:57:20] [main/INFO]: Loading Minecraft 1.21.1 with Fabric Loader 0.16.3
+[17:57:20] [main/INFO]: Loading 4 mods:
 	- fabricloader 0.16.3
 	   \-- mixinextras 0.4.1
 	- java 21
 	- minecraft 1.21.1
-[16:10:49] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/hardcore5/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[16:10:56] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[16:10:59] [main/INFO]: Loaded 1290 recipes
-[16:10:59] [main/INFO]: Loaded 1399 advancements
-[16:11:00] [Server thread/INFO]: Starting minecraft server version 1.21.1
-[16:11:00] [Server thread/INFO]: Loading properties
-[16:11:00] [Server thread/INFO]: Default game type: SURVIVAL
-[16:11:00] [Server thread/INFO]: Generating keypair
-[16:11:00] [Server thread/INFO]: Starting Minecraft server on *:25565
-[16:11:00] [Server thread/INFO]: Using epoll channel type
-[16:11:00] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[16:11:00] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[16:11:00] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[16:11:00] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[16:11:00] [Server thread/INFO]: Preparing level "world"
-[16:11:03] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[16:11:04] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[16:11:04] [Server thread/INFO]: Time elapsed: 558 ms
-[16:11:04] [Server thread/INFO]: Done (3.652s)! For help, type "help"
-[16:11:15] [Server thread/INFO]: troll_face300[/127.153.7.232:49299] logged in with entity id 12 at (-510.69999998807907, 66.0, -501.14574325615746)
-[16:11:16] [Server thread/INFO]: troll_face300 joined the game
-[16:11:26] [Server thread/INFO]: DaVIcHoz21[/127.198.79.118:46095] logged in with entity id 367 at (-514.1104928744624, 68.16610926093821, -503.0730861673518)
-[16:11:26] [Server thread/INFO]: DaVIcHoz21 joined the game
-[16:52:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2083ms or 41 ticks behind
-[16:55:18] [Server thread/INFO]: [Not Secure] <troll_face300> -81.448 / 81.87500 / -61.959
-[16:59:29] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-79, y=127, z=-63} class_2338{x=-81, y=83, z=-63}
-[17:06:37] [Server thread/INFO]: DaVIcHoz21 lost connection: Disconnected
-[17:06:37] [Server thread/INFO]: DaVIcHoz21 left the game
-[17:12:53] [Server thread/INFO]: DaVIcHoz21[/127.198.79.118:35707] logged in with entity id 40679 at (-494.5490233372154, 63.0, -571.9212632675334)
-[17:12:53] [Server thread/INFO]: DaVIcHoz21 joined the game
-[17:18:22] [Server thread/INFO]: Lechugaaa17[/127.38.156.73:36473] logged in with entity id 42867 at (-504.38363845308623, 61.68566629047968, -1029.5696694447863)
-[17:18:22] [Server thread/INFO]: Lechugaaa17 joined the game
-[17:18:29] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> XDDD
-[17:18:32] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> wenas
-[17:18:38] [Server thread/INFO]: [Not Secure] <Lechugaaa17> ANDO EN MEDIO DE LA ANDA
-[17:18:40] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> ven a
-[17:18:41] [Server thread/INFO]: [Not Secure] <Lechugaaa17> nada*
-[17:18:42] [Server thread/INFO]: [Not Secure] <Lechugaaa17> xdd
-[17:18:49] [Server thread/INFO]: [Not Secure] <troll_face300> xd
-[17:18:52] [Server thread/INFO]: [Not Secure] <Lechugaaa17> ah no
-[17:18:56] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> -500 -500
-[17:19:01] [Server thread/INFO]: [Not Secure] <Lechugaaa17> void
-[17:19:02] [Server thread/INFO]: Lechugaaa17 fell from a high place
-[17:19:05] [Server thread/INFO]: [Not Secure] <Lechugaaa17> xdd
-[17:19:07] [Server thread/INFO]: [Not Secure] <troll_face300> XDDD
-[17:20:49] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> w
-[17:20:55] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> xavi
-[17:20:57] [Server thread/INFO]: [Not Secure] <Lechugaaa17> q
-[17:21:03] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> entra a la llamada de discord
-[17:21:09] [Server thread/INFO]: [Not Secure] <Lechugaaa17> q discord
-[17:21:13] [Server thread/INFO]: [Not Secure] <troll_face300> no
-[17:21:14] [Server thread/INFO]: [Not Secure] <Lechugaaa17> ah
-[17:21:15] [Server thread/INFO]: [Not Secure] <troll_face300> only
-[17:21:15] [Server thread/INFO]: [Not Secure] <Lechugaaa17> xdd
-[17:21:15] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> el del server
-[17:21:21] [Server thread/INFO]: [Not Secure] <Lechugaaa17> ya epra
-[17:21:26] [Server thread/INFO]: [Not Secure] <Lechugaaa17> ando escuchando musica
-[17:21:33] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-367, y=74, z=-244} class_2338{x=-366, y=72, z=-245}
-[17:21:33] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-365, y=74, z=-244} class_2338{x=-366, y=72, z=-244}
-[17:21:33] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-365, y=74, z=-244} class_2338{x=-366, y=72, z=-244}
-[17:21:36] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> depresiva
-[17:21:41] [Server thread/INFO]: [Not Secure] <Lechugaaa17> no
-[17:21:44] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> a}
-[17:21:49] [Server thread/INFO]: [Not Secure] <Lechugaaa17> NUEVaYOL
-[17:21:51] [Server thread/INFO]: [Not Secure] <Lechugaaa17> GODD CSM
-[17:21:54] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> donde estas
-[17:22:01] [Server thread/INFO]: [Not Secure] <Lechugaaa17> ALDEA
-[17:22:07] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> llegaste?
-[17:22:24] [Server thread/INFO]: [Not Secure] <Lechugaaa17> si
-[17:22:26] [Server thread/INFO]: [Not Secure] <Lechugaaa17> creo
-[17:22:29] [Server thread/INFO]: [Not Secure] <troll_face300> que ves
-[17:22:31] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> esperame
-[17:22:32] [Server thread/INFO]: [Not Secure] <Lechugaaa17> aldea
-[17:22:35] [Server thread/INFO]: [Not Secure] <Lechugaaa17> ando aca
-[17:22:38] [Server thread/INFO]: [Not Secure] <Lechugaaa17> en una casa
-[17:22:41] [Server thread/INFO]: [Not Secure] <Lechugaaa17> de aldeano
-[17:22:55] [Server thread/INFO]: [Not Secure] <Lechugaaa17> atras
-[17:23:04] [Server thread/INFO]: [Not Secure] <Lechugaaa17> trol
-[17:23:08] [Server thread/INFO]: [Not Secure] <troll_face300> que
-[17:23:12] [Server thread/INFO]: [Not Secure] <Lechugaaa17> atras mira
-[17:23:13] [Server thread/INFO]: [Not Secure] <Lechugaaa17> uwu
-[17:23:24] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> DUERMAN
-[17:23:26] [Server thread/INFO]: Lechugaaa17 has made the advancement [Sweet Dreams]
-[17:24:02] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> hola
-[17:24:06] [Server thread/INFO]: [Not Secure] <Lechugaaa17> ando con 2 corazones
-[17:24:07] [Server thread/INFO]: [Not Secure] <Lechugaaa17> xdd
-[17:24:09] [Server thread/INFO]: [Not Secure] <Lechugaaa17> matame
-[17:24:13] [Server thread/INFO]: Lechugaaa17 was slain by DaVIcHoz21 using [ELUCITATOR]
-[17:24:16] [Server thread/INFO]: [Not Secure] <troll_face300> XD
-[17:24:18] [Server thread/INFO]: [Not Secure] <Lechugaaa17> listop
-[17:24:22] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> VEN
-[17:24:26] [Server thread/INFO]: [Not Secure] <Lechugaaa17> void
-[17:24:29] [Server thread/INFO]: [Not Secure] <troll_face300> le damos su full diamante
-[17:24:33] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> si
-[17:24:44] [Server thread/INFO]: [Not Secure] <troll_face300> oye
-[17:24:46] [Server thread/INFO]: [Not Secure] <troll_face300> toma llave
-[17:24:48] [Server thread/INFO]: [Not Secure] <troll_face300> para la la trial
-[17:25:04] [Server thread/INFO]: [Not Secure] <troll_face300> baja mano
-[17:25:12] [Server thread/INFO]: Lechugaaa17 has made the advancement [Cover Me with Diamonds]
-[17:25:32] [Server thread/INFO]: [Not Secure] <troll_face300> toma pechera
-[17:25:34] [Server thread/INFO]: [Not Secure] <troll_face300> y casco
-[17:25:35] [Server thread/INFO]: [Not Secure] <Lechugaaa17> hacer mi casita
-[17:25:38] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> sigueme xavi
-[17:25:40] [Server thread/INFO]: [Not Secure] <Lechugaaa17> pera
-[17:26:10] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> ven xaci
-[17:26:16] [Server thread/INFO]: [Not Secure] <Lechugaaa17> afinidad acuatica?
-[17:26:17] [Server thread/INFO]: [Not Secure] <Lechugaaa17> xdd
-[17:26:22] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> VEN CRJ
-[17:26:58] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> sigueme
-[17:29:10] [Server thread/WARN]: Lechugaaa17 moved too quickly! 9.90265192134882,0.5358406250445569,1.811186098055373
-[17:30:13] [Server thread/INFO]: [Not Secure] <troll_face300> donde estas
-[17:30:14] [Server thread/INFO]: [Not Secure] <troll_face300> sigueme
-[17:31:27] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-404, y=68, z=-323} class_2338{x=-404, y=66, z=-324}
-[17:31:27] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-404, y=68, z=-323} class_2338{x=-404, y=66, z=-324}
-[17:31:39] [Server thread/INFO]: [Not Secure] <troll_face300> aca
-[17:31:41] [Server thread/INFO]: [Not Secure] <troll_face300> acaaaaaaa
-[17:31:57] [Server thread/INFO]: Lechugaaa17 was doomed to fall by Skeleton
-[17:32:08] [Server thread/INFO]: [Not Secure] <troll_face300> ven
-[17:32:15] [Server thread/INFO]: [Not Secure] <troll_face300> dame las llaves
-[17:32:15] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> se murio XDDD
-[17:32:22] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> tenes cubeta?
-[17:33:15] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-137, y=89, z=-220} class_2338{x=-138, y=89, z=-220}
-[17:33:15] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-137, y=89, z=-220} class_2338{x=-138, y=89, z=-220}
-[17:35:43] [Server thread/INFO]: Lechugaaa17 has made the advancement [Acquire Hardware]
-[17:36:10] [Server thread/INFO]: Lechugaaa17 has made the advancement [Isn't It Iron Pick]
-[17:37:15] [Server thread/INFO]: Lechugaaa17 has made the advancement [Monster Hunter]
-[17:38:25] [Server thread/INFO]: Lechugaaa17 has made the advancement [Best Friends Forever]
-[17:38:52] [Server thread/INFO]: troll_face300 has made the advancement [Under Lock and Key]
-[17:38:58] [Server thread/INFO]: Lechugaaa17 was blown up by Creeper
-[17:41:31] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-491, y=64, z=-462} class_2338{x=-491, y=62, z=-463}
-[17:43:18] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-323, y=78, z=-340} class_2338{x=-323, y=76, z=-340}
-[17:43:30] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-391, y=72, z=-369} class_2338{x=-391, y=70, z=-370}
-[17:43:30] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-391, y=72, z=-369} class_2338{x=-391, y=70, z=-370}
-[17:46:21] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-328, y=76, z=-334} class_2338{x=-326, y=74, z=-334}
-[17:46:22] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-324, y=77, z=-335} class_2338{x=-323, y=75, z=-336}
-[17:47:22] [Server thread/INFO]: [Not Secure] <troll_face300> ok
-[17:47:27] [Server thread/INFO]: [Not Secure] <troll_face300> xavi
-[17:47:28] [Server thread/INFO]: [Not Secure] <troll_face300> xdd
-[17:47:36] [Server thread/INFO]: [Not Secure] <troll_face300> te consigo otra armadura
-[17:47:38] [Server thread/INFO]: [Not Secure] <troll_face300> sigueme
-[17:48:04] [Server thread/INFO]: [Not Secure] <troll_face300> comprate una
-[17:48:38] [Server thread/INFO]: Lechugaaa17 has made the advancement [What a Deal!]
-[17:50:08] [Server thread/INFO]: [Not Secure] <troll_face300> ponle reparacion a tu armadura
-[17:55:19] [Server thread/INFO]: troll_face300 lost connection: Disconnected
-[17:55:19] [Server thread/INFO]: troll_face300 left the game
-[17:55:21] [Server thread/INFO]: Lechugaaa17 lost connection: Disconnected
-[17:55:21] [Server thread/INFO]: Lechugaaa17 left the game
-[17:55:23] [Server thread/INFO]: DaVIcHoz21 lost connection: Disconnected
-[17:55:23] [Server thread/INFO]: DaVIcHoz21 left the game
-[17:55:54] [Server thread/INFO]: Stopping the server
-[17:55:54] [Server thread/INFO]: Stopping server
-[17:55:54] [Server thread/INFO]: Saving players
-[17:55:54] [Server thread/INFO]: Saving worlds
-[17:55:54] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[17:55:54] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[17:55:54] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[17:55:54] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[17:55:54] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[17:55:54] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[17:55:54] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[17:57:20] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/hardcore5/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[17:57:25] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[17:57:27] [main/INFO]: Loaded 1290 recipes
+[17:57:27] [main/INFO]: Loaded 1399 advancements
+[17:57:28] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[17:57:28] [Server thread/INFO]: Loading properties
+[17:57:28] [Server thread/INFO]: Default game type: SURVIVAL
+[17:57:28] [Server thread/INFO]: Generating keypair
+[17:57:28] [Server thread/INFO]: Starting Minecraft server on *:25565
+[17:57:28] [Server thread/INFO]: Using epoll channel type
+[17:57:28] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[17:57:28] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[17:57:28] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[17:57:28] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[17:57:28] [Server thread/INFO]: Preparing level "world"
+[17:57:31] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[17:57:31] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:57:31] [Server thread/INFO]: Time elapsed: 478 ms
+[17:57:31] [Server thread/INFO]: Done (2.972s)! For help, type "help"
+[17:57:41] [Server thread/INFO]: Lechugaaa17[/127.38.156.73:44291] logged in with entity id 10 at (-447.04863066416203, 64.0, -600.8876305121684)
+[17:57:41] [Server thread/INFO]: Lechugaaa17 joined the game
+[17:57:44] [Server thread/INFO]: troll_face300[/127.153.7.232:34125] logged in with entity id 331 at (-497.82808294844205, 62.0, -499.9777376759193)
+[17:57:44] [Server thread/INFO]: troll_face300 joined the game
+[17:57:56] [Server thread/INFO]: [Not Secure] <troll_face300> xavi
+[17:58:01] [Server thread/INFO]: [Not Secure] <troll_face300> muere para probar si esta en dificil
+[17:58:05] [Server thread/INFO]: DaVIcHoz21[/127.198.79.118:47703] logged in with entity id 876 at (-402.8657290042174, -17.0, -212.32927466329096)
+[17:58:05] [Server thread/INFO]: DaVIcHoz21 joined the game
+[17:58:26] [Server thread/INFO]: [Not Secure] <troll_face300> xavi
+[17:58:29] [Server thread/INFO]: [Not Secure] <troll_face300> xavi
+[17:58:29] [Server thread/INFO]: [Not Secure] <troll_face300> muere
+[17:58:32] [Server thread/INFO]: [Not Secure] <troll_face300> te
+[17:59:13] [Server thread/INFO]: [Not Secure] <Lechugaaa17> afk
+[18:00:07] [Server thread/INFO]: [Not Secure] <troll_face300> oye
+[18:00:08] [Server thread/INFO]: [Not Secure] <troll_face300> muere
+[18:00:13] [Server thread/INFO]: [Not Secure] <troll_face300> serio
+[18:00:19] [Server thread/INFO]: [Not Secure] <troll_face300> te devuelvo tu armadura no pierdes nada
+[18:00:26] [Server thread/INFO]: [Not Secure] <troll_face300> guarda spawn
+[18:00:33] [Server thread/INFO]: Lechugaaa17 was slain by troll_face300
+[18:01:15] [Server thread/INFO]: [Not Secure] <troll_face300> duerman
+[18:01:16] [Server thread/INFO]: [Not Secure] <troll_face300> duerman
+[18:04:28] [Server thread/INFO]: Lechugaaa17 has made the advancement [The Parrots and the Bats]
+[18:05:23] [Server thread/INFO]: [Not Secure] <troll_face300> que
+[18:05:26] [Server thread/INFO]: [Not Secure] <troll_face300> que
+[18:05:33] [Server thread/INFO]: [Not Secure] <troll_face300> dejalos en el cofre
+[18:05:44] [Server thread/INFO]: [Not Secure] <troll_face300> bueno
+[18:06:22] [Server thread/INFO]: [Not Secure] <troll_face300> le puse reparacion a mi pico
+[18:09:09] [Server thread/INFO]: troll_face300 was slain by Vindicator
+[18:10:19] [Server thread/INFO]: Lechugaaa17 was slain by Vindicator
+[18:10:46] [Server thread/INFO]: DaVIcHoz21 has reached the goal [Postmortal]
+[18:11:10] [Server thread/INFO]: [Not Secure] <troll_face300> xavi
+[18:12:32] [Server thread/INFO]: Lechugaaa17 has completed the challenge [Hero of the Village]
+[18:12:32] [Server thread/INFO]: troll_face300 has completed the challenge [Hero of the Village]
+[18:18:25] [Server thread/INFO]: DaVIcHoz21 lost connection: Disconnected
+[18:18:25] [Server thread/INFO]: DaVIcHoz21 left the game
+[18:20:00] [Server thread/INFO]: DaVIcHoz21[/127.198.79.118:56487] logged in with entity id 23799 at (-575.984207030318, 64.0, -481.96066896494904)
+[18:20:00] [Server thread/INFO]: DaVIcHoz21 joined the game
+[18:26:14] [Server thread/INFO]: [Not Secure] <troll_face300> duerman
+[18:26:15] [Server thread/INFO]: [Not Secure] <troll_face300> duerman
+[18:26:16] [Server thread/INFO]: [Not Secure] <troll_face300> duerman
+[18:26:17] [Server thread/INFO]: [Not Secure] <troll_face300> duerman
+[18:26:18] [Server thread/INFO]: [Not Secure] <troll_face300> duerman
+[18:26:19] [Server thread/INFO]: [Not Secure] <troll_face300> duerman
+[18:26:20] [Server thread/INFO]: [Not Secure] <troll_face300> duerman
+[18:26:21] [Server thread/INFO]: [Not Secure] <troll_face300> duerman
+[18:29:02] [Server thread/INFO]: [Not Secure] <troll_face300> duerman
+[18:29:22] [Server thread/INFO]: troll_face300 has reached the goal [Postmortal]
+[18:30:39] [Server thread/INFO]: [Not Secure] <Lechugaaa17> wwwww
+[18:35:11] [Server thread/INFO]: Villager class_1646['Cleric'/223, l='ServerLevel[world]', x=-490.67, y=61.56, z=-493.10] died, message: 'Cleric was slain by DaVIcHoz21 using [ELUCITATOR]'
+[18:35:59] [Server thread/WARN]: dinnerbone (vehicle of DaVIcHoz21) moved wrongly! 0.34987983556425206
+[18:36:00] [Server thread/WARN]: dinnerbone (vehicle of DaVIcHoz21) moved wrongly! 0.9059745053854158
+[18:36:00] [Server thread/WARN]: dinnerbone (vehicle of DaVIcHoz21) moved wrongly! 1.4658437582743318
+[18:36:00] [Server thread/WARN]: dinnerbone (vehicle of DaVIcHoz21) moved wrongly! 1.7916500415017822
+[18:36:00] [Server thread/WARN]: dinnerbone (vehicle of DaVIcHoz21) moved wrongly! 2.108435501853023
+[18:40:05] [Server thread/INFO]: Villager class_1646['Fisherman'/95, l='ServerLevel[world]', x=-491.40, y=64.00, z=-521.06] died, message: 'Fisherman burned to death'
+[18:44:56] [Server thread/INFO]: Lechugaaa17 was blown up by Creeper
+[18:45:58] [Server thread/INFO]: troll_face300 lost connection: Disconnected
+[18:45:58] [Server thread/INFO]: troll_face300 left the game
+[18:46:29] [Server thread/INFO]: troll_face300[/127.153.7.232:51123] logged in with entity id 45745 at (-502.85451058491543, 63.9375, -517.8632469146997)
+[18:46:29] [Server thread/INFO]: troll_face300 joined the game
+[18:46:55] [Server thread/INFO]: Named entity class_1642['milagritos'/45108, l='ServerLevel[world]', x=-494.75, y=63.43, z=-521.95] died: milagritos was killed while trying to hurt troll_face300
+[18:47:24] [Server thread/INFO]: troll_face300 lost connection: Disconnected
+[18:47:24] [Server thread/INFO]: troll_face300 left the game
+[18:47:46] [Server thread/INFO]: troll_face300[/127.153.7.232:60873] logged in with entity id 46186 at (-507.69999998807907, 59.937778978228025, -599.0843381103867)
+[18:47:46] [Server thread/INFO]: troll_face300 joined the game
+[18:49:18] [Server thread/INFO]: [Not Secure] <troll_face300> xavi
+[18:49:19] [Server thread/INFO]: [Not Secure] <troll_face300> derme
+[18:49:20] [Server thread/INFO]: [Not Secure] <troll_face300> duermeeee
+[18:49:22] [Server thread/INFO]: [Not Secure] <troll_face300> duermeee
+[18:52:29] [Server thread/INFO]: [Not Secure] <Lechugaaa17> 131 dias
+[18:52:30] [Server thread/INFO]: [Not Secure] <Lechugaaa17> xd
+[18:53:47] [Server thread/INFO]: Villager class_1646['Cleric'/213, l='ServerLevel[world]', x=-498.12, y=61.59, z=-502.24] died, message: 'Cleric was slain by DaVIcHoz21 using [ELUCITATOR]'
+[18:54:14] [Server thread/INFO]: [Not Secure] <troll_face300> ya vuelvo
+[18:54:16] [Server thread/INFO]: [Not Secure] <troll_face300> me voy a comer
+[18:54:20] [Server thread/INFO]: troll_face300 lost connection: Disconnected
+[18:54:20] [Server thread/INFO]: troll_face300 left the game
+[18:54:22] [Server thread/INFO]: [Not Secure] <Lechugaaa17> xd
+[18:54:24] [Server thread/INFO]: DaVIcHoz21 lost connection: Disconnected
+[18:54:24] [Server thread/INFO]: DaVIcHoz21 left the game
+[18:54:36] [Server thread/INFO]: Lechugaaa17 lost connection: Disconnected
+[18:54:36] [Server thread/INFO]: Lechugaaa17 left the game
+[18:56:01] [Server thread/INFO]: troll_face300[/127.153.7.232:44181] logged in with entity id 47977 at (-497.3880855006046, 64.0, -507.7320596602209)
+[18:56:01] [Server thread/INFO]: troll_face300 joined the game
+[18:56:49] [Server thread/INFO]: troll_face300 lost connection: Disconnected
+[18:56:49] [Server thread/INFO]: troll_face300 left the game
+[19:03:12] [Server thread/INFO]: DaVIcHoz21[/127.198.79.118:45621] logged in with entity id 48525 at (-504.7920161261135, 65.0, -500.91159972499)
+[19:03:12] [Server thread/INFO]: DaVIcHoz21 joined the game
+[19:03:47] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> fffffffffffffffffffffffffffffffffffffffffffffffffffffff
+[19:05:07] [Server thread/WARN]: DaVIcHoz21 was kicked for floating too long!
+[19:05:07] [Server thread/INFO]: DaVIcHoz21 lost connection: Flying is not enabled on this server
+[19:05:07] [Server thread/INFO]: DaVIcHoz21 left the game
+[19:05:07] [Server thread/WARN]: handleDisconnection() called twice
+[19:06:30] [Server thread/INFO]: DaVIcHoz21[/127.198.79.118:52275] logged in with entity id 49198 at (-506.53981595139203, 65.24918707874468, -498.53360085165946)
+[19:06:30] [Server thread/INFO]: DaVIcHoz21 joined the game
+[19:09:18] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-527, y=66, z=-488} class_2338{x=-528, y=64, z=-489}
+[19:12:00] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-527, y=66, z=-488} class_2338{x=-529, y=66, z=-488}
+[19:13:41] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-527, y=62, z=-489} class_2338{x=-529, y=65, z=-489}
+[19:18:23] [Server thread/INFO]: troll_face300[/127.153.7.232:48967] logged in with entity id 52090 at (-495.5724505541191, 61.0, -502.3443789637793)
+[19:18:23] [Server thread/INFO]: troll_face300 joined the game
+[19:18:33] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> ola
+[19:18:35] [Server thread/INFO]: [Not Secure] <troll_face300> a
+[19:18:37] [Server thread/INFO]: [Not Secure] <troll_face300> hola
+[19:18:49] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> vamos a hacer lo del nether
+[19:18:51] [Server thread/INFO]: [Not Secure] <troll_face300> alfin
+[19:18:52] [Server thread/INFO]: [Not Secure] <troll_face300> enderpel
+[19:18:53] [Server thread/INFO]: [Not Secure] <troll_face300> bien
+[19:18:58] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> vamos c4rj
+[19:19:18] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> vamos
+[19:19:23] [Server thread/INFO]: [Not Secure] <troll_face300> los materiales
+[19:19:31] [Server thread/INFO]: [Not Secure] <troll_face300> mira
+[19:19:33] [Server thread/INFO]: [Not Secure] <troll_face300> mano
+[19:19:36] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> ya
+[19:19:52] [Server thread/INFO]: [Not Secure] <troll_face300> vuelve
+[19:20:01] [Server thread/INFO]: [Not Secure] <troll_face300> oye
+[19:20:17] [Server thread/INFO]: [Not Secure] <troll_face300> XD
+[19:20:20] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> XDD
+[19:20:51] [Server thread/INFO]: [Not Secure] <troll_face300> tienes para encender el portal
+[19:20:56] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> si
+[19:21:02] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> destruye el portal de ahi{
+[19:21:15] [Server thread/INFO]: [Not Secure] <troll_face300> todo
+[19:21:17] [Server thread/INFO]: [Not Secure] <troll_face300> ??
+[19:21:18] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> si
+[19:21:25] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> espetra
+[19:21:34] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> tomale a las coords
+[19:21:40] [Server thread/INFO]: [Not Secure] <troll_face300> tu mano
+[19:21:42] [Server thread/INFO]: [Not Secure] <troll_face300> ven
+[19:21:45] [Server thread/INFO]: [Not Secure] <troll_face300> que pierdes
+[19:22:06] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> -80 -61
+[19:22:10] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> listo
+[19:23:16] [Server thread/INFO]: [Not Secure] <troll_face300> donde estas
+[19:23:31] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-81, y=81, z=-64} class_2338{x=-73, y=121, z=-66}
+[19:23:31] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-81, y=81, z=-64} class_2338{x=-73, y=121, z=-67}
+[19:23:47] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> las escaleras?
+[19:23:47] [Server thread/INFO]: [Not Secure] <troll_face300> que pasa mano
+[19:23:51] [Server thread/INFO]: [Not Secure] <troll_face300> aca ven
+[19:23:55] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> es aca
+[19:23:57] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> ven oe
+[19:24:10] [Server thread/INFO]: [Not Secure] <troll_face300> tu pon las escaleras
+[19:24:13] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> la enderpel
+[19:25:01] [Server thread/INFO]: [Not Secure] <troll_face300> el encendedor
+[19:25:11] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> se me olvido
+[19:26:39] [Server thread/INFO]: [Not Secure] <troll_face300> vamos
+[19:26:44] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> pera
+[19:27:07] [Server thread/INFO]: [Not Secure] <troll_face300> sombie?
+[19:28:04] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> vamos
+[19:28:06] [Server thread/INFO]: [Not Secure] <troll_face300> espera
+[19:28:09] [Server thread/INFO]: [Not Secure] <troll_face300> etiqueta
+[19:28:59] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-501, y=64, z=-499} class_2338{x=-496, y=64, z=-524}
+[19:29:16] [Server thread/INFO]: [Not Secure] <troll_face300> ya
+[19:29:18] [Server thread/INFO]: [Not Secure] <troll_face300> vamos
+[19:29:44] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> GGES
+[19:29:50] [Server thread/INFO]: [Not Secure] <troll_face300> ya
+[19:29:53] [Server thread/INFO]: [Not Secure] <troll_face300> ahora si la granja
+[19:29:56] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> y como bajamos
+[19:30:21] [Server thread/INFO]: [Not Secure] <troll_face300> nose
+[19:30:30] [Server thread/INFO]: [Not Secure] <troll_face300> tendremos que hacer otro portal
+[19:30:40] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> si
+[19:31:14] [Server thread/INFO]: [Not Secure] <troll_face300> hay qye hacer un camino
+[19:31:46] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> ay cabron
+[19:31:50] [Server thread/INFO]: [Not Secure] <troll_face300> que
+[19:32:00] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> pense q me cai del chunk
+[19:32:06] [Server thread/INFO]: [Not Secure] <troll_face300> a
+[19:32:12] [Server thread/INFO]: [Not Secure] <troll_face300> a donde vamos?
+[19:32:17] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> aqui
+[19:32:27] [Server thread/INFO]: [Not Secure] <troll_face300> que haces ._.
+[19:32:32] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> la granja
+[19:32:34] [Server thread/INFO]: [Not Secure] <troll_face300> a ok
+[19:32:39] [Server thread/INFO]: [Not Secure] <troll_face300> voy al portal
+[19:32:43] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> ok
+[19:32:46] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> trae madera
+[19:32:48] [Server thread/INFO]: [Not Secure] <troll_face300> ok
+[19:32:50] [Server thread/INFO]: [Not Secure] <troll_face300> cuanta
+[19:32:55] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> 1 stack
+[19:32:56] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-92, y=127, z=-296} class_2338{x=-95, y=128, z=-388}
+[19:32:57] [Server thread/INFO]: [Not Secure] <troll_face300> ok
+[19:33:14] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-95, y=128, z=-388} class_2338{x=-93, y=130, z=-389}
+[19:33:25] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-93, y=130, z=-389} class_2338{x=-95, y=136, z=-389}
+[19:34:02] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-95, y=136, z=-389} class_2338{x=-94, y=140, z=-390}
+[19:34:36] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-92, y=138, z=-390} class_2338{x=-94, y=139, z=-381}
+[19:34:59] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> ya
+[19:35:19] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-94, y=139, z=-381} class_2338{x=-95, y=140, z=-382}
+[19:35:22] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> trae
+[19:35:27] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> cristal
+[19:35:47] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-95, y=140, z=-382} class_2338{x=-91, y=129, z=-389}
+[19:35:55] [Server thread/INFO]: [Not Secure] <troll_face300> ._.
+[19:35:59] [Server thread/INFO]: [Not Secure] <troll_face300> bueno
+[19:36:18] [Server thread/INFO]: [Not Secure] <troll_face300> cuanto
+[19:36:25] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> 48
+[19:36:26] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-93, y=127, z=-391} class_2338{x=-94, y=128, z=-391}
+[19:36:31] [Server thread/INFO]: [Not Secure] <troll_face300> ._.
+[19:36:33] [Server thread/INFO]: [Not Secure] <troll_face300> bueno
+[19:38:48] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-94, y=132, z=-390} class_2338{x=-92, y=132, z=-389}
+[19:38:48] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-94, y=132, z=-390} class_2338{x=-92, y=132, z=-389}
+[19:38:48] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-94, y=132, z=-390} class_2338{x=-92, y=132, z=-389}
+[19:38:48] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-94, y=132, z=-390} class_2338{x=-92, y=132, z=-389}
+[19:39:14] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> ya we
+[19:39:18] [Server thread/INFO]: [Not Secure] <troll_face300> espera
+[19:39:18] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> tengo miedo
+[19:39:20] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> XD
+[19:39:26] [Server thread/INFO]: [Not Secure] <troll_face300> XD
+[19:41:09] [Server thread/INFO]: [Not Secure] <troll_face300> ._.
+[19:41:12] [Server thread/INFO]: [Not Secure] <troll_face300> toma
+[19:41:14] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> XD
+[19:41:27] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> we
+[19:41:36] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> los libreros dan cristal
+[19:41:41] [Server thread/INFO]: [Not Secure] <troll_face300> no importa
+[19:41:43] [Server thread/INFO]: [Not Secure] <troll_face300> XD
+[19:42:17] [Server thread/INFO]: [Not Secure] <troll_face300> ya va a terminar
+[19:42:20] [Server thread/INFO]: [Not Secure] <troll_face300> anda al nether
+[19:42:24] [Server thread/INFO]: [Not Secure] <troll_face300> yo te lo voy llevando
+[19:45:09] [Server thread/INFO]: [Not Secure] <troll_face300> ya falta poco
+[19:45:24] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> trae
+[19:45:27] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> mats we
+[19:45:31] [Server thread/INFO]: [Not Secure] <troll_face300> que falta poco
+[19:45:57] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-92, y=127, z=-412} class_2338{x=-79, y=129, z=-413}
+[19:47:15] [Server thread/INFO]: [Not Secure] <troll_face300> ya voy
+[19:48:17] [Server thread/INFO]: [Not Secure] <troll_face300> ._.
+[19:48:23] [Server thread/INFO]: [Not Secure] <troll_face300> xd
+[19:48:27] [Server thread/INFO]: [Not Secure] <troll_face300> ven toma
+[19:49:49] [Server thread/INFO]: [Not Secure] <troll_face300> que falta
+[19:49:55] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> rellenarlo
+[19:49:57] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> ayudame
+[19:49:58] [Server thread/INFO]: [Not Secure] <troll_face300> ok
+[19:50:06] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> son 6
+[19:56:15] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-91, y=128, z=-115} class_2338{x=-496, y=65, z=-520}
+[19:59:28] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-71, y=142, z=-414} class_2338{x=-70, y=143, z=-414}
+[19:59:41] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-65, y=142, z=-406} class_2338{x=-78, y=129, z=-412}
+[20:00:05] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-65, y=142, z=-406} class_2338{x=-75, y=143, z=-405}
+[20:01:52] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-79, y=160, z=-414} class_2338{x=-79, y=164, z=-414}
+[20:02:53] [Server thread/INFO]: DaVIcHoz21 lost connection: Disconnected
+[20:02:53] [Server thread/INFO]: DaVIcHoz21 left the game

@@ -148,6 +148,7 @@
       "golden_apple": "2025-01-10 22:13:07 +0000",
       "honey_bottle": "2025-01-10 22:01:50 +0000",
       "suspicious_stew": "2024-12-09 02:13:34 +0000",
+      "cookie": "2025-01-11 18:53:37 +0000",
       "cooked_beef": "2025-01-10 21:24:41 +0000",
       "beef": "2024-12-07 00:01:55 +0000",
       "baked_potato": "2025-01-09 20:29:24 +0000",
@@ -673,6 +674,8 @@
     "criteria": {
       "minecraft:pillager": "2025-01-09 16:40:19 +0000",
       "minecraft:skeleton": "2024-12-07 00:19:53 +0000",
+      "minecraft:zombified_piglin": "2025-01-11 19:58:53 +0000",
+      "minecraft:witch": "2025-01-11 18:44:04 +0000",
       "minecraft:ravager": "2025-01-11 16:08:38 +0000",
       "minecraft:husk": "2025-01-10 21:15:18 +0000",
       "minecraft:bogged": "2025-01-10 21:14:57 +0000",
@@ -683,9 +686,11 @@
       "minecraft:silverfish": "2025-01-10 21:25:54 +0000",
       "minecraft:spider": "2024-12-07 23:19:41 +0000",
       "minecraft:piglin_brute": "2024-12-09 02:26:39 +0000",
+      "minecraft:vex": "2025-01-11 18:10:57 +0000",
       "minecraft:zombie": "2024-12-07 01:20:42 +0000",
       "minecraft:creeper": "2024-12-07 01:16:12 +0000",
-      "minecraft:zombie_villager": "2025-01-09 17:00:40 +0000"
+      "minecraft:zombie_villager": "2025-01-09 17:00:40 +0000",
+      "minecraft:evoker": "2025-01-11 18:09:10 +0000"
     },
     "done": false
   },
@@ -1820,7 +1825,8 @@
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:crimson_forest": "2024-12-09 02:21:35 +0000",
-      "minecraft:soul_sand_valley": "2024-12-09 02:19:50 +0000"
+      "minecraft:soul_sand_valley": "2024-12-09 02:19:50 +0000",
+      "minecraft:nether_wastes": "2025-01-11 19:32:09 +0000"
     },
     "done": false
   },
@@ -3276,9 +3282,21 @@
     },
     "done": true
   },
+  "minecraft:adventure/salvage_sherd": {
+    "criteria": {
+      "has_sherd": "2025-01-11 17:33:08 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/misc/flow_armor_trim_smithing_template": {
     "criteria": {
       "has_flow_armor_trim_smithing_template": "2025-01-11 17:39:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/flow_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-01-11 17:39:55 +0000"
     },
     "done": true
   },
@@ -3288,21 +3306,57 @@
     },
     "done": true
   },
-  "minecraft:adventure/salvage_sherd": {
-    "criteria": {
-      "has_sherd": "2025-01-11 17:33:08 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/misc/flow_armor_trim_smithing_template_smithing_trim": {
-    "criteria": {
-      "has_smithing_trim_template": "2025-01-11 17:39:55 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/bolt_armor_trim_smithing_template": {
     "criteria": {
       "has_bolt_armor_trim_smithing_template": "2025-01-11 17:44:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/totem_of_undying": {
+    "criteria": {
+      "used_totem": "2025-01-11 18:10:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_bed": {
+    "criteria": {
+      "has_pink_wool": "2025-01-11 18:15:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_carpet": {
+    "criteria": {
+      "has_pink_wool": "2025-01-11 18:15:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_banner": {
+    "criteria": {
+      "has_pink_wool": "2025-01-11 18:15:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_carpet": {
+    "criteria": {
+      "has_red_wool": "2025-01-11 18:16:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_banner": {
+    "criteria": {
+      "has_red_wool": "2025-01-11 18:16:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_bed": {
+    "criteria": {
+      "has_red_wool": "2025-01-11 18:16:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/packed_mud": {
+    "criteria": {
+      "has_mud": "2025-01-11 19:16:47 +0000"
     },
     "done": true
   },
