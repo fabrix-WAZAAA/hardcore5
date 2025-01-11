@@ -134,3 +134,33 @@
 [17:38:52] [Server thread/INFO]: troll_face300 has made the advancement [Under Lock and Key]
 [17:38:58] [Server thread/INFO]: Lechugaaa17 was blown up by Creeper
 [17:41:31] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-491, y=64, z=-462} class_2338{x=-491, y=62, z=-463}
+[17:43:18] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-323, y=78, z=-340} class_2338{x=-323, y=76, z=-340}
+[17:43:30] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-391, y=72, z=-369} class_2338{x=-391, y=70, z=-370}
+[17:43:30] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-391, y=72, z=-369} class_2338{x=-391, y=70, z=-370}
+[17:46:21] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-328, y=76, z=-334} class_2338{x=-326, y=74, z=-334}
+[17:46:22] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-324, y=77, z=-335} class_2338{x=-323, y=75, z=-336}
+[17:47:22] [Server thread/INFO]: [Not Secure] <troll_face300> ok
+[17:47:27] [Server thread/INFO]: [Not Secure] <troll_face300> xavi
+[17:47:28] [Server thread/INFO]: [Not Secure] <troll_face300> xdd
+[17:47:36] [Server thread/INFO]: [Not Secure] <troll_face300> te consigo otra armadura
+[17:47:38] [Server thread/INFO]: [Not Secure] <troll_face300> sigueme
+[17:48:04] [Server thread/INFO]: [Not Secure] <troll_face300> comprate una
+[17:48:38] [Server thread/INFO]: Lechugaaa17 has made the advancement [What a Deal!]
+[17:50:08] [Server thread/INFO]: [Not Secure] <troll_face300> ponle reparacion a tu armadura
+[17:55:19] [Server thread/INFO]: troll_face300 lost connection: Disconnected
+[17:55:19] [Server thread/INFO]: troll_face300 left the game
+[17:55:21] [Server thread/INFO]: Lechugaaa17 lost connection: Disconnected
+[17:55:21] [Server thread/INFO]: Lechugaaa17 left the game
+[17:55:23] [Server thread/INFO]: DaVIcHoz21 lost connection: Disconnected
+[17:55:23] [Server thread/INFO]: DaVIcHoz21 left the game
+[17:55:54] [Server thread/INFO]: Stopping the server
+[17:55:54] [Server thread/INFO]: Stopping server
+[17:55:54] [Server thread/INFO]: Saving players
+[17:55:54] [Server thread/INFO]: Saving worlds
+[17:55:54] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[17:55:54] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[17:55:54] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[17:55:54] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[17:55:54] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[17:55:54] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[17:55:54] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
