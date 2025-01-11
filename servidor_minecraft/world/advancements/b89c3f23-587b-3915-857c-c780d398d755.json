@@ -332,7 +332,8 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "mutton": "2024-12-08 15:21:42 +0000",
-      "salmon": "2024-12-08 15:20:46 +0000"
+      "salmon": "2024-12-08 15:20:46 +0000",
+      "golden_carrot": "2025-01-11 17:27:35 +0000"
     },
     "done": false
   },
@@ -417,6 +418,18 @@
   "minecraft:recipes/redstone/oak_door": {
     "criteria": {
       "has_planks": "2025-01-11 17:20:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_leggings": "2025-01-11 17:25:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-01-11 17:23:26 +0000"
     },
     "done": true
   },
