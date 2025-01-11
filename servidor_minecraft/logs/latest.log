@@ -32,3 +32,18 @@
 [02:13:04] [Server thread/WARN]: DaVIcHoz21 moved too quickly! -6.741850345411024,1.1954991035152744,-7.398913839260047
 [02:25:31] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> xavi le puso de nombre a su espada como su ex
 [02:25:34] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> pa q haga mas daño
+[02:43:20] [Server thread/INFO]: troll_face300 lost connection: Disconnected
+[02:43:20] [Server thread/INFO]: troll_face300 left the game
+[02:43:29] [Server thread/INFO]: Stopping the server
+[02:43:29] [Server thread/INFO]: Stopping server
+[02:43:29] [Server thread/INFO]: Saving players
+[02:43:29] [Server thread/INFO]: DaVIcHoz21 lost connection: Server closed
+[02:43:29] [Server thread/INFO]: DaVIcHoz21 left the game
+[02:43:29] [Server thread/INFO]: Saving worlds
+[02:43:29] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[02:43:29] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[02:43:29] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[02:43:29] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[02:43:29] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[02:43:29] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[02:43:29] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
