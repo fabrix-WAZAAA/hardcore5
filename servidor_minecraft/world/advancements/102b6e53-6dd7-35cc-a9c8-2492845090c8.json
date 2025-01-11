@@ -442,6 +442,7 @@
       "minecraft:ghast": "2024-12-09 01:43:44 +0000",
       "minecraft:hoglin": "2025-01-01 15:34:52 +0000",
       "minecraft:breeze": "2025-01-10 21:20:35 +0000",
+      "minecraft:vindicator": "2025-01-11 16:06:51 +0000",
       "minecraft:enderman": "2025-01-09 22:36:14 +0000",
       "minecraft:silverfish": "2025-01-10 21:24:38 +0000",
       "minecraft:spider": "2024-12-07 15:44:58 +0000",
@@ -2683,6 +2684,18 @@
   "minecraft:recipes/building_blocks/waxed_oxidized_copper_grate_from_waxed_oxidized_copper_stonecutting": {
     "criteria": {
       "has_waxed_oxidized_copper": "2025-01-10 21:19:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/summon_iron_golem": {
+    "criteria": {
+      "summoned_golem": "2025-01-11 16:06:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-01-11 16:06:51 +0000"
     },
     "done": true
   },
