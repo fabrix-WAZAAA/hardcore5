@@ -27,3 +27,13 @@
 [20:45:11] [Server thread/INFO]: DaVIcHoz21 joined the game
 [20:45:32] [Server thread/INFO]: troll_face300[/127.153.7.232:52603] logged in with entity id 202 at (-515.599343325896, 69.16610926093821, -503.4657792695948)
 [20:45:32] [Server thread/INFO]: troll_face300 joined the game
+[21:03:17] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-60, y=79, z=-14} class_2338{x=-60, y=78, z=-14}
+[21:03:17] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-60, y=79, z=-14} class_2338{x=-60, y=78, z=-14}
+[21:03:38] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-60, y=59, z=7} class_2338{x=-60, y=57, z=7}
+[21:03:44] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-60, y=54, z=12} class_2338{x=-60, y=52, z=12}
+[21:03:48] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-60, y=50, z=16} class_2338{x=-60, y=48, z=16}
+[21:03:49] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-60, y=49, z=17} class_2338{x=-60, y=47, z=17}
+[21:03:51] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-60, y=47, z=19} class_2338{x=-60, y=45, z=19}
+[21:03:56] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-60, y=44, z=22} class_2338{x=-60, y=40, z=24}
+[21:04:45] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-62, y=48, z=23} class_2338{x=-60, y=75, z=-8}
+[21:08:05] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=21, y=87, z=-64} class_2338{x=20, y=86, z=-64}
