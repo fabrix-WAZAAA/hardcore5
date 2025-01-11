@@ -1,56 +1,35 @@
-[21:27:24] [main/INFO]: Loading Minecraft 1.21.1 with Fabric Loader 0.16.3
-[21:27:24] [main/INFO]: Loading 4 mods:
+[22:36:33] [main/INFO]: Loading Minecraft 1.21.1 with Fabric Loader 0.16.3
+[22:36:33] [main/INFO]: Loading 4 mods:
 	- fabricloader 0.16.3
 	   \-- mixinextras 0.4.1
 	- java 21
 	- minecraft 1.21.1
-[21:27:24] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/hardcore5/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[21:27:33] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[21:27:35] [main/INFO]: Loaded 1290 recipes
-[21:27:35] [main/INFO]: Loaded 1399 advancements
-[21:27:36] [Server thread/INFO]: Starting minecraft server version 1.21.1
-[21:27:36] [Server thread/INFO]: Loading properties
-[21:27:36] [Server thread/INFO]: Default game type: SURVIVAL
-[21:27:36] [Server thread/INFO]: Generating keypair
-[21:27:36] [Server thread/INFO]: Starting Minecraft server on *:25565
-[21:27:36] [Server thread/INFO]: Using epoll channel type
-[21:27:36] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[21:27:36] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[21:27:36] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[21:27:36] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[21:27:36] [Server thread/INFO]: Preparing level "world"
-[21:27:40] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[21:27:41] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[21:27:41] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[21:27:41] [Worker-Main-3/INFO]: Preparing spawn area: 79%
-[21:27:41] [Server thread/INFO]: Time elapsed: 1121 ms
-[21:27:41] [Server thread/INFO]: Done (4.675s)! For help, type "help"
-[21:27:44] [Server thread/INFO]: DaVIcHoz21[/127.198.79.118:37557] logged in with entity id 10 at (-79.29695720776675, 38.0, -296.3593613527753)
-[21:27:44] [Server thread/INFO]: DaVIcHoz21 joined the game
-[21:27:53] [Server thread/INFO]: troll_face300[/127.153.7.232:40065] logged in with entity id 193 at (-86.71548504455384, 38.041109260938214, -298.5290901483669)
-[21:27:53] [Server thread/INFO]: troll_face300 joined the game
-[21:36:02] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-81, y=82, z=-68} class_2338{x=-81, y=83, z=-69}
-[21:38:32] [Server thread/INFO]: DaVIcHoz21 lost connection: Disconnected
-[21:38:32] [Server thread/INFO]: DaVIcHoz21 left the game
-[21:38:37] [Server thread/INFO]: DaVIcHoz21[/127.198.79.118:38511] logged in with entity id 2293 at (-506.59743431969963, 64.0, -496.0034498728732)
-[21:38:37] [Server thread/INFO]: DaVIcHoz21 joined the game
-[21:39:50] [Server thread/WARN]: troll_face300 moved too quickly! -5.834028630121054,1.1241870787446828,8.454722577511177
-[21:39:59] [Server thread/WARN]: DaVIcHoz21 moved too quickly! 7.846753159011882,-1.1661092609382138,-6.126210206106862
-[21:40:42] [Server thread/INFO]: troll_face300 lost connection: Disconnected
-[21:40:42] [Server thread/INFO]: troll_face300 left the game
-[21:45:48] [Server thread/INFO]: Villager class_1646['Armorer'/1508, l='ServerLevel[world]', x=-491.76, y=61.00, z=-492.43] died, message: 'Armorer was slain by Vindicator'
-[21:46:48] [Server thread/INFO]: Villager class_1646['Cleric'/1487, l='ServerLevel[world]', x=-492.27, y=61.82, z=-503.44] died, message: 'Cleric was slain by Vindicator'
-[21:47:00] [Server thread/INFO]: Villager class_1646['Fletcher'/1484, l='ServerLevel[world]', x=-492.39, y=61.56, z=-503.73] died, message: 'Fletcher was slain by Vindicator'
-[21:47:07] [Server thread/INFO]: Villager class_1646['Fletcher'/1488, l='ServerLevel[world]', x=-490.51, y=61.56, z=-496.52] died, message: 'Fletcher was slain by Vindicator'
-[21:47:09] [Server thread/INFO]: Villager class_1646['Toolsmith'/1512, l='ServerLevel[world]', x=-503.37, y=61.60, z=-493.34] died, message: 'Toolsmith was slain by Vindicator'
-[21:47:11] [Server thread/INFO]: Villager class_1646['Librarian'/1473, l='ServerLevel[world]', x=-490.41, y=61.56, z=-503.76] died, message: 'Librarian was slain by Vindicator'
-[21:47:12] [Server thread/INFO]: Villager class_1646['Fletcher'/1472, l='ServerLevel[world]', x=-493.93, y=61.00, z=-496.69] died, message: 'Fletcher was slain by Vex'
-[21:47:13] [Server thread/INFO]: Villager class_1646['Fletcher'/1489, l='ServerLevel[world]', x=-492.70, y=61.42, z=-504.51] died, message: 'Fletcher was slain by Vindicator'
-[21:47:17] [Server thread/INFO]: Villager class_1646['Fletcher'/1491, l='ServerLevel[world]', x=-493.64, y=61.00, z=-504.46] died, message: 'Fletcher was slain by Vindicator'
-[21:47:19] [Server thread/INFO]: Villager class_1646['Librarian'/1470, l='ServerLevel[world]', x=-498.12, y=62.00, z=-495.46] died, message: 'Librarian was shot by Pillager'
-[21:47:20] [Server thread/INFO]: Villager class_1646['Farmer'/1496, l='ServerLevel[world]', x=-500.29, y=61.56, z=-496.71] died, message: 'Farmer was slain by Vindicator'
-[21:47:22] [Server thread/INFO]: Villager class_1646['Librarian'/1511, l='ServerLevel[world]', x=-492.44, y=61.00, z=-498.49] died, message: 'Librarian was slain by Vindicator'
-[21:47:24] [Server thread/INFO]: Villager class_1646['Fisherman'/1510, l='ServerLevel[world]', x=-494.95, y=62.00, z=-497.17] died, message: 'Fisherman was slain by Vindicator'
-[21:47:25] [Server thread/INFO]: Villager class_1646['Fletcher'/1513, l='ServerLevel[world]', x=-504.21, y=61.56, z=-491.30] died, message: 'Fletcher was slain by Vex'
-[21:47:26] [Server thread/INFO]: Villager class_1646['Fletcher'/1485, l='ServerLevel[world]', x=-490.47, y=61.56, z=-494.37] died, message: 'Fletcher was slain by Vindicator'
-[21:47:30] [Server thread/INFO]: Villager class_1646['Fisherman'/1481, l='ServerLevel[world]', x=-491.61, y=64.52, z=-522.32] died, message: 'Fisherman was slain by Vex'
+[22:36:33] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/hardcore5/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[22:36:40] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[22:36:43] [main/INFO]: Loaded 1290 recipes
+[22:36:43] [main/INFO]: Loaded 1399 advancements
+[22:36:44] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[22:36:44] [Server thread/INFO]: Loading properties
+[22:36:44] [Server thread/INFO]: Default game type: SURVIVAL
+[22:36:44] [Server thread/INFO]: Generating keypair
+[22:36:44] [Server thread/INFO]: Starting Minecraft server on *:25565
+[22:36:44] [Server thread/INFO]: Using epoll channel type
+[22:36:44] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[22:36:44] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[22:36:44] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[22:36:44] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[22:36:44] [Server thread/INFO]: Preparing level "world"
+[22:36:47] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[22:36:48] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[22:36:48] [Server thread/INFO]: Time elapsed: 563 ms
+[22:36:48] [Server thread/INFO]: Done (3.782s)! For help, type "help"
+[22:36:51] [Server thread/INFO]: troll_face300[/127.153.7.232:45545] logged in with entity id 10 at (-471.38776475139895, 63.0, -534.3000000119209)
+[22:36:51] [Server thread/INFO]: troll_face300 joined the game
+[22:36:57] [Server thread/INFO]: DaVIcHoz21[/127.198.79.118:33435] logged in with entity id 280 at (-467.2276050553309, 63.0, -536.1623730956594)
+[22:36:57] [Server thread/INFO]: DaVIcHoz21 joined the game
+[22:39:28] [Server thread/INFO]: [Not Secure] <troll_face300> oye
+[22:39:30] [Server thread/INFO]: [Not Secure] <troll_face300> toma
+[22:39:32] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> q
+[22:39:47] [Server thread/INFO]: [Not Secure] <troll_face300> vuelvo en 15 minutos
+[22:40:04] [Server thread/INFO]: troll_face300 lost connection: Disconnected
+[22:40:04] [Server thread/INFO]: troll_face300 left the game
