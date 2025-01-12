@@ -444,6 +444,7 @@
       "minecraft:bogged": "2025-01-10 21:15:17 +0000",
       "minecraft:ghast": "2024-12-09 01:43:44 +0000",
       "minecraft:hoglin": "2025-01-01 15:34:52 +0000",
+      "minecraft:piglin": "2025-01-12 02:04:11 +0000",
       "minecraft:breeze": "2025-01-10 21:20:35 +0000",
       "minecraft:vindicator": "2025-01-11 16:06:51 +0000",
       "minecraft:enderman": "2025-01-09 22:36:14 +0000",
@@ -1416,7 +1417,8 @@
     "criteria": {
       "minecraft:crimson_forest": "2024-12-09 02:21:41 +0000",
       "minecraft:soul_sand_valley": "2024-12-07 21:46:04 +0000",
-      "minecraft:nether_wastes": "2025-01-11 19:32:15 +0000"
+      "minecraft:nether_wastes": "2025-01-11 19:32:15 +0000",
+      "minecraft:warped_forest": "2025-01-12 02:07:53 +0000"
     },
     "done": false
   },
@@ -2908,6 +2910,12 @@
     },
     "done": true
   },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2025-01-12 01:40:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_brick_slab": {
     "criteria": {
       "has_polished_blackstone_bricks": "2025-01-12 01:41:14 +0000"
@@ -2941,12 +2949,6 @@
   "minecraft:recipes/decorations/polished_blackstone_brick_wall": {
     "criteria": {
       "has_polished_blackstone_bricks": "2025-01-12 01:41:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/find_bastion": {
-    "criteria": {
-      "bastion": "2025-01-12 01:40:55 +0000"
     },
     "done": true
   },
