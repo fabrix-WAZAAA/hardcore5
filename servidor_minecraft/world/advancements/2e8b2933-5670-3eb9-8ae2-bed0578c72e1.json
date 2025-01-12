@@ -10,14 +10,17 @@
       "minecraft:snowy_slopes": "2025-01-12 00:14:55 +0000",
       "minecraft:forest": "2024-12-06 23:57:37 +0000",
       "minecraft:taiga": "2024-12-06 23:58:16 +0000",
+      "minecraft:deep_ocean": "2025-01-12 00:35:54 +0000",
       "minecraft:frozen_river": "2024-12-06 23:52:42 +0000",
       "minecraft:windswept_forest": "2025-01-12 00:01:51 +0000",
       "minecraft:ocean": "2025-01-12 00:03:01 +0000",
       "minecraft:jungle": "2025-01-12 00:07:14 +0000",
+      "minecraft:sunflower_plains": "2025-01-12 00:38:49 +0000",
       "minecraft:birch_forest": "2025-01-12 00:01:21 +0000",
       "minecraft:windswept_hills": "2025-01-11 23:39:39 +0000",
       "minecraft:windswept_savanna": "2025-01-12 00:00:22 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-01-12 00:17:50 +0000",
+      "minecraft:flower_forest": "2025-01-12 00:39:04 +0000",
       "minecraft:savanna_plateau": "2025-01-12 00:13:16 +0000",
       "minecraft:beach": "2025-01-09 02:13:37 +0000",
       "minecraft:mangrove_swamp": "2025-01-11 23:52:26 +0000",
@@ -3529,9 +3532,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/dried_kelp_from_smoking": {
+  "minecraft:husbandry/tame_an_animal": {
     "criteria": {
-      "has_kelp": "2025-01-12 00:05:26 +0000"
+      "tamed_animal": "2025-01-11 23:36:55 +0000"
     },
     "done": true
   },
@@ -3541,27 +3544,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/dried_kelp_from_smelting": {
-    "criteria": {
-      "has_kelp": "2025-01-12 00:05:26 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/emerald_from_blasting_emerald_ore": {
     "criteria": {
       "has_emerald_ore": "2025-01-11 23:47:36 +0000"
     },
     "done": true
   },
-  "minecraft:husbandry/tame_an_animal": {
+  "minecraft:recipes/misc/coal_from_blasting_coal_ore": {
     "criteria": {
-      "tamed_animal": "2025-01-11 23:36:55 +0000"
+      "has_coal_ore": "2025-01-11 23:47:40 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+  "minecraft:recipes/misc/coal_from_smelting_coal_ore": {
     "criteria": {
-      "has_kelp": "2025-01-12 00:05:26 +0000"
+      "has_coal_ore": "2025-01-11 23:47:40 +0000"
     },
     "done": true
   },
@@ -3571,9 +3568,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/coal_from_blasting_coal_ore": {
+  "minecraft:recipes/misc/conduit": {
     "criteria": {
-      "has_coal_ore": "2025-01-11 23:47:40 +0000"
+      "has_nautilus_core": "2025-01-12 00:05:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2025-01-12 00:05:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2025-01-12 00:05:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2025-01-12 00:05:26 +0000"
     },
     "done": true
   },
@@ -3589,21 +3604,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/coal_from_smelting_coal_ore": {
-    "criteria": {
-      "has_coal_ore": "2025-01-11 23:47:40 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/scaffolding": {
     "criteria": {
       "has_bamboo": "2025-01-12 00:07:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/conduit": {
-    "criteria": {
-      "has_nautilus_core": "2025-01-12 00:05:01 +0000"
     },
     "done": true
   },
