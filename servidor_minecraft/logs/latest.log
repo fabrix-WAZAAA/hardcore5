@@ -39,3 +39,12 @@
 [02:11:14] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-354, y=73, z=-739} class_2338{x=-381, y=64, z=-758}
 [02:11:14] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-354, y=73, z=-739} class_2338{x=-381, y=64, z=-758}
 [02:11:16] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-381, y=59, z=-756} class_2338{x=-381, y=59, z=-757}
+[02:14:26] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-350, y=74, z=-735} class_2338{x=-350, y=74, z=-734}
+[02:14:32] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-350, y=74, z=-735} class_2338{x=-350, y=75, z=-732}
+[02:14:57] [Server thread/WARN]: DaVIcHoz21 moved too quickly! 0.7968578534327548,0.5698121338414097,10.016019510543515
+[02:15:01] [Server thread/WARN]: DaVIcHoz21 was kicked for floating too long!
+[02:15:01] [Server thread/INFO]: DaVIcHoz21 lost connection: Flying is not enabled on this server
+[02:15:01] [Server thread/INFO]: DaVIcHoz21 left the game
+[02:15:02] [Server thread/WARN]: handleDisconnection() called twice
+[02:15:20] [Server thread/INFO]: DaVIcHoz21[/127.198.79.118:50491] logged in with entity id 3805 at (-356.45060742264286, 67.7531999805212, -679.1112152712384)
+[02:15:20] [Server thread/INFO]: DaVIcHoz21 joined the game
