@@ -177,6 +177,7 @@
       "cookie": "2025-01-11 18:53:37 +0000",
       "sweet_berries": "2025-01-12 02:53:11 +0000",
       "cooked_beef": "2025-01-10 21:24:41 +0000",
+      "chorus_fruit": "2025-01-12 20:56:34 +0000",
       "beef": "2024-12-07 00:01:55 +0000",
       "baked_potato": "2025-01-09 20:29:24 +0000",
       "porkchop": "2024-12-06 23:58:50 +0000",
@@ -3905,9 +3906,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/popped_chorus_fruit": {
+    "criteria": {
+      "has_chorus_fruit": "2025-01-12 20:56:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:end/dragon_egg": {
     "criteria": {
       "dragon_egg": "2025-01-12 20:53:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/enter_end_gateway": {
+    "criteria": {
+      "entered_end_gateway": "2025-01-12 20:55:20 +0000"
     },
     "done": true
   },
