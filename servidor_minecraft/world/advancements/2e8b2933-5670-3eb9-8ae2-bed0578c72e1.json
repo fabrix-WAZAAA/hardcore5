@@ -4045,9 +4045,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
+  "minecraft:recipes/misc/quartz": {
     "criteria": {
-      "has_netherite_upgrade_smithing_template": "2025-01-12 21:52:13 +0000"
+      "has_nether_quartz_ore": "2025-01-12 21:48:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/quartz_from_blasting": {
+    "criteria": {
+      "has_nether_quartz_ore": "2025-01-12 21:48:49 +0000"
     },
     "done": true
   },
@@ -4057,21 +4063,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/quartz": {
+  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
     "criteria": {
-      "has_nether_quartz_ore": "2025-01-12 21:48:49 +0000"
+      "has_netherite_upgrade_smithing_template": "2025-01-12 21:52:13 +0000"
     },
     "done": true
   },
   "minecraft:recipes/misc/netherite_ingot": {
     "criteria": {
       "has_netherite_scrap": "2025-01-12 21:57:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/quartz_from_blasting": {
-    "criteria": {
-      "has_nether_quartz_ore": "2025-01-12 21:48:49 +0000"
     },
     "done": true
   },
