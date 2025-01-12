@@ -63,3 +63,16 @@
 [21:31:44] [Server thread/INFO]: DaVIcHoz21 joined the game
 [21:37:29] [Server thread/WARN]: DaVIcHoz21 moved too quickly! -6.433617017356141,-9.112044206489927,-2.3790959549248782
 [21:38:10] [Server thread/WARN]: DaVIcHoz21 moved too quickly! -3.639492202208089,-2.5279821796988955,-10.00257179607786
+[21:39:53] [Server thread/INFO]: DaVIcHoz21 lost connection: Disconnected
+[21:39:53] [Server thread/INFO]: DaVIcHoz21 left the game
+[21:39:58] [Server thread/INFO]: DaVIcHoz21[/127.198.79.118:50859] logged in with entity id 18845 at (-471.97386599815644, 63.0, -530.9080117512793)
+[21:39:58] [Server thread/INFO]: DaVIcHoz21 joined the game
+[21:40:01] [Server thread/INFO]: DaVIcHoz21 lost connection: Disconnected
+[21:40:01] [Server thread/INFO]: DaVIcHoz21 left the game
+[21:40:06] [Server thread/INFO]: DaVIcHoz21[/127.198.79.118:44669] logged in with entity id 18899 at (-471.97386599815644, 63.0, -530.9080117512793)
+[21:40:06] [Server thread/INFO]: DaVIcHoz21 joined the game
+[21:41:41] [Server thread/INFO]: DaVIcHoz21 lost connection: Disconnected
+[21:41:41] [Server thread/INFO]: DaVIcHoz21 left the game
+[21:43:21] [Server thread/INFO]: DaVIcHoz21[/127.198.79.118:56441] logged in with entity id 19535 at (-514.5692302349182, 60.0, -494.30000001192093)
+[21:43:21] [Server thread/INFO]: DaVIcHoz21 joined the game
+[21:43:58] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-79, y=128, z=-67} class_2338{x=-79, y=122, z=-62}
