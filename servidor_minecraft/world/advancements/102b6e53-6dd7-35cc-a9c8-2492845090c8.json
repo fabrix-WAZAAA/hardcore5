@@ -3161,6 +3161,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/eye_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-01-12 21:19:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:end/kill_dragon": {
     "criteria": {
       "killed_dragon": "2025-01-12 20:53:04 +0000"
@@ -3176,6 +3182,12 @@
   "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_stonecutting": {
     "criteria": {
       "has_end_stone": "2025-01-12 21:01:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/eye_armor_trim_smithing_template": {
+    "criteria": {
+      "has_eye_armor_trim_smithing_template": "2025-01-12 21:19:18 +0000"
     },
     "done": true
   },
