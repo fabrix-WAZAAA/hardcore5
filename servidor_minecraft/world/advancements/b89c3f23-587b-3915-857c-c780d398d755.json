@@ -7,12 +7,18 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:cold_ocean": "2025-01-12 20:23:52 +0000",
       "minecraft:snowy_slopes": "2024-12-08 15:14:56 +0000",
-      "minecraft:frozen_river": "2025-01-11 17:19:23 +0000",
       "minecraft:forest": "2024-12-08 15:19:53 +0000",
+      "minecraft:taiga": "2025-01-12 20:22:48 +0000",
       "minecraft:river": "2024-12-08 15:20:06 +0000",
-      "minecraft:grove": "2024-12-08 15:15:07 +0000",
       "minecraft:snowy_plains": "2024-12-08 15:13:42 +0000",
+      "minecraft:snowy_taiga": "2025-01-12 20:21:50 +0000",
+      "minecraft:deep_cold_ocean": "2025-01-12 20:24:22 +0000",
+      "minecraft:frozen_ocean": "2025-01-12 20:27:20 +0000",
+      "minecraft:frozen_river": "2025-01-11 17:19:23 +0000",
+      "minecraft:grove": "2024-12-08 15:15:07 +0000",
+      "minecraft:snowy_beach": "2025-01-12 20:27:37 +0000",
       "minecraft:plains": "2024-12-08 15:19:01 +0000"
     },
     "done": false
@@ -333,6 +339,7 @@
     "criteria": {
       "mutton": "2024-12-08 15:21:42 +0000",
       "apple": "2025-01-12 03:08:05 +0000",
+      "bread": "2025-01-12 20:38:42 +0000",
       "rotten_flesh": "2025-01-11 18:09:54 +0000",
       "potato": "2025-01-11 17:36:45 +0000",
       "cooked_cod": "2025-01-12 03:13:16 +0000",
@@ -1459,57 +1466,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/red_dye_from_poppy": {
-    "criteria": {
-      "has_poppy": "2025-01-12 19:42:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/glowstone": {
-    "criteria": {
-      "has_glowstone_dust": "2025-01-12 19:15:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stripped_oak_wood": {
-    "criteria": {
-      "has_log": "2025-01-12 19:23:01 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/bread": {
-    "criteria": {
-      "has_wheat": "2025-01-12 19:42:03 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/note_block": {
     "criteria": {
       "has_redstone": "2025-01-12 19:15:47 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/oak_hanging_sign": {
-    "criteria": {
-      "has_stripped_logs": "2025-01-12 19:23:01 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/hay_block": {
-    "criteria": {
-      "has_wheat": "2025-01-12 19:42:03 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/target": {
     "criteria": {
       "has_redstone": "2025-01-12 19:15:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/spectral_arrow": {
-    "criteria": {
-      "has_glowstone_dust": "2025-01-12 19:15:48 +0000"
     },
     "done": true
   },
@@ -1522,6 +1487,66 @@
   "minecraft:recipes/redstone/piston": {
     "criteria": {
       "has_redstone": "2025-01-12 19:15:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2025-01-12 19:15:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2025-01-12 19:15:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_oak_wood": {
+    "criteria": {
+      "has_log": "2025-01-12 19:23:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-01-12 19:23:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-01-12 19:42:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2025-01-12 19:42:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2025-01-12 19:42:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2025-01-12 20:33:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2025-01-12 20:39:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2025-01-12 20:39:19 +0000"
     },
     "done": true
   },
