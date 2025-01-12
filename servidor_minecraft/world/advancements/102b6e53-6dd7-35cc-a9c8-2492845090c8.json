@@ -455,27 +455,28 @@
       "minecraft:pillager": "2025-01-11 01:44:48 +0000",
       "minecraft:blaze": "2025-01-12 02:13:07 +0000",
       "minecraft:skeleton": "2024-12-07 15:30:50 +0000",
-      "minecraft:zombified_piglin": "2025-01-11 19:19:42 +0000",
-      "minecraft:witch": "2025-01-08 22:20:57 +0000",
-      "minecraft:wither_skeleton": "2025-01-12 02:11:38 +0000",
       "minecraft:ravager": "2025-01-11 18:10:17 +0000",
-      "minecraft:husk": "2025-01-10 21:15:02 +0000",
       "minecraft:bogged": "2025-01-10 21:15:17 +0000",
       "minecraft:ghast": "2024-12-09 01:43:44 +0000",
       "minecraft:hoglin": "2025-01-01 15:34:52 +0000",
-      "minecraft:piglin": "2025-01-12 02:04:11 +0000",
       "minecraft:breeze": "2025-01-10 21:20:35 +0000",
       "minecraft:vindicator": "2025-01-11 16:06:51 +0000",
-      "minecraft:enderman": "2025-01-09 22:36:14 +0000",
-      "minecraft:silverfish": "2025-01-10 21:24:38 +0000",
       "minecraft:magma_cube": "2025-01-12 02:15:07 +0000",
       "minecraft:spider": "2024-12-07 15:44:58 +0000",
+      "minecraft:creeper": "2024-12-08 18:32:14 +0000",
+      "minecraft:slime": "2024-12-07 18:27:23 +0000",
+      "minecraft:zombified_piglin": "2025-01-11 19:19:42 +0000",
+      "minecraft:witch": "2025-01-08 22:20:57 +0000",
+      "minecraft:wither_skeleton": "2025-01-12 02:11:38 +0000",
+      "minecraft:husk": "2025-01-10 21:15:02 +0000",
+      "minecraft:ender_dragon": "2025-01-12 20:53:04 +0000",
+      "minecraft:piglin": "2025-01-12 02:04:11 +0000",
+      "minecraft:enderman": "2025-01-09 22:36:14 +0000",
+      "minecraft:silverfish": "2025-01-10 21:24:38 +0000",
       "minecraft:vex": "2025-01-11 21:51:23 +0000",
       "minecraft:zombie": "2024-12-06 23:56:10 +0000",
-      "minecraft:creeper": "2024-12-08 18:32:14 +0000",
       "minecraft:drowned": "2025-01-09 17:43:49 +0000",
-      "minecraft:zombie_villager": "2024-12-08 15:19:24 +0000",
-      "minecraft:slime": "2024-12-07 18:27:23 +0000"
+      "minecraft:zombie_villager": "2024-12-08 15:19:24 +0000"
     },
     "done": false
   },
@@ -3149,6 +3150,18 @@
   "minecraft:story/enter_the_end": {
     "criteria": {
       "entered_end": "2025-01-12 20:39:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/kill_dragon": {
+    "criteria": {
+      "killed_dragon": "2025-01-12 20:53:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/dragon_egg": {
+    "criteria": {
+      "dragon_egg": "2025-01-12 20:54:08 +0000"
     },
     "done": true
   },
