@@ -1,36 +1,48 @@
-[02:39:14] [main/INFO]: Loading Minecraft 1.21.1 with Fabric Loader 0.16.3
-[02:39:15] [main/INFO]: Loading 4 mods:
+[19:04:23] [main/INFO]: Loading Minecraft 1.21.1 with Fabric Loader 0.16.3
+[19:04:23] [main/INFO]: Loading 4 mods:
 	- fabricloader 0.16.3
 	   \-- mixinextras 0.4.1
 	- java 21
 	- minecraft 1.21.1
-[02:39:15] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/hardcore5/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[02:39:21] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[02:39:22] [main/INFO]: Loaded 1290 recipes
-[02:39:22] [main/INFO]: Loaded 1399 advancements
-[02:39:23] [Server thread/INFO]: Starting minecraft server version 1.21.1
-[02:39:23] [Server thread/INFO]: Loading properties
-[02:39:23] [Server thread/INFO]: Default game type: SURVIVAL
-[02:39:23] [Server thread/INFO]: Generating keypair
-[02:39:23] [Server thread/INFO]: Starting Minecraft server on *:25565
-[02:39:23] [Server thread/INFO]: Using epoll channel type
-[02:39:23] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[02:39:23] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[02:39:23] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[02:39:23] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[02:39:23] [Server thread/INFO]: Preparing level "world"
-[02:39:26] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[02:39:26] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[02:39:26] [Server thread/INFO]: Time elapsed: 514 ms
-[02:39:26] [Server thread/INFO]: Done (2.938s)! For help, type "help"
-[02:39:37] [Server thread/INFO]: Stopping the server
-[02:39:37] [Server thread/INFO]: Stopping server
-[02:39:37] [Server thread/INFO]: Saving players
-[02:39:37] [Server thread/INFO]: Saving worlds
-[02:39:37] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[02:39:37] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[02:39:37] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[02:39:37] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[02:39:37] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[02:39:37] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[02:39:37] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[19:04:23] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/hardcore5/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[19:04:30] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[19:04:33] [main/INFO]: Loaded 1290 recipes
+[19:04:33] [main/INFO]: Loaded 1399 advancements
+[19:04:34] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[19:04:34] [Server thread/INFO]: Loading properties
+[19:04:34] [Server thread/INFO]: Default game type: SURVIVAL
+[19:04:34] [Server thread/INFO]: Generating keypair
+[19:04:34] [Server thread/INFO]: Starting Minecraft server on *:25565
+[19:04:34] [Server thread/INFO]: Using epoll channel type
+[19:04:34] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[19:04:34] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[19:04:34] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[19:04:34] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[19:04:34] [Server thread/INFO]: Preparing level "world"
+[19:04:37] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[19:04:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:04:38] [Server thread/INFO]: Time elapsed: 520 ms
+[19:04:38] [Server thread/INFO]: Done (3.738s)! For help, type "help"
+[19:04:41] [Server thread/INFO]: DaVIcHoz21[/127.198.79.118:58923] logged in with entity id 10 at (-507.69999998807907, -14.0, -2154.370499041198)
+[19:04:41] [Server thread/INFO]: DaVIcHoz21 joined the game
+[19:09:56] [Server thread/WARN]: DaVIcHoz21 moved too quickly! -3.479375652396584,-7.534414362071146,6.771092330818647
+[19:10:19] [Server thread/WARN]: DaVIcHoz21 moved too quickly! -7.046738499869434,7.252574434443609,7.327894420377788
+[19:10:35] [Server thread/WARN]: DaVIcHoz21 moved too quickly! -4.3759610048546165,6.388058301179974,7.922462133055205
+[19:11:17] [Server thread/WARN]: DaVIcHoz21 moved too quickly! -8.049108430976958,7.764338944729936,6.085193331761047
+[19:12:10] [Server thread/INFO]: Lechugaaa17[/127.38.156.73:51977] logged in with entity id 4622 at (-576.6062964730914, 68.16610926093821, -555.3980415466478)
+[19:12:10] [Server thread/INFO]: Lechugaaa17 joined the game
+[19:12:14] [Server thread/INFO]: [Not Secure] <Lechugaaa17> hi
+[19:12:19] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> ola we
+[19:13:19] [Server thread/INFO]: [Not Secure] <Lechugaaa17> xd
+[19:13:25] [Server thread/INFO]: [Not Secure] <Lechugaaa17> voy a hacer una granja de trigo
+[19:13:28] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> ok
+[19:13:36] [Server thread/INFO]: [Not Secure] <Lechugaaa17> prestame aldeanos
+[19:13:45] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> no se
+[19:13:49] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> ok
+[19:13:53] [Server thread/INFO]: [Not Secure] <Lechugaaa17> dormir tio
+[19:13:55] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> pero solo aldeanos granjero
+[19:14:00] [Server thread/INFO]: [Not Secure] <Lechugaaa17> eso
+[19:21:05] [Server thread/INFO]: [Not Secure] <Lechugaaa17> retiro lo dicho
+[19:21:09] [Server thread/INFO]: [Not Secure] <Lechugaaa17> voy a hacerlo despues
+[19:21:15] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> JAJAJAAJA+
+[19:21:25] [Server thread/INFO]: [Not Secure] <Lechugaaa17> voy a terminar mi jato
