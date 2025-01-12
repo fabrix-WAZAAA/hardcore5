@@ -1,125 +1,28 @@
-[00:25:33] [main/INFO]: Loading Minecraft 1.21.1 with Fabric Loader 0.16.3
-[00:25:33] [main/INFO]: Loading 4 mods:
+[01:11:20] [main/INFO]: Loading Minecraft 1.21.1 with Fabric Loader 0.16.3
+[01:11:20] [main/INFO]: Loading 4 mods:
 	- fabricloader 0.16.3
 	   \-- mixinextras 0.4.1
 	- java 21
 	- minecraft 1.21.1
-[00:25:33] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/hardcore5/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[00:25:40] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[00:25:43] [main/INFO]: Loaded 1290 recipes
-[00:25:43] [main/INFO]: Loaded 1399 advancements
-[00:25:44] [Server thread/INFO]: Starting minecraft server version 1.21.1
-[00:25:44] [Server thread/INFO]: Loading properties
-[00:25:44] [Server thread/INFO]: Default game type: SURVIVAL
-[00:25:44] [Server thread/INFO]: Generating keypair
-[00:25:44] [Server thread/INFO]: Starting Minecraft server on *:25565
-[00:25:44] [Server thread/INFO]: Using epoll channel type
-[00:25:44] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[00:25:44] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[00:25:44] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[00:25:44] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[00:25:44] [Server thread/INFO]: Preparing level "world"
-[00:25:48] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[00:25:49] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:25:49] [Worker-Main-2/INFO]: Preparing spawn area: 12%
-[00:25:49] [Server thread/INFO]: Time elapsed: 589 ms
-[00:25:49] [Server thread/INFO]: Done (4.462s)! For help, type "help"
-[00:26:20] [Server thread/INFO]: troll_face300[/127.153.7.232:55011] logged in with entity id 10 at (-472.5, 63.0, -535.5)
-[00:26:20] [Server thread/INFO]: troll_face300 joined the game
-[00:26:52] [Server thread/INFO]: [Not Secure] <troll_face300> yuda a hacer la greanjua
-[00:27:06] [Server thread/INFO]: DaVIcHoz21[/127.198.79.118:45341] logged in with entity id 356 at (-4129.708324129571, 80.17675927506424, -4111.207279058579)
-[00:27:06] [Server thread/INFO]: DaVIcHoz21 joined the game
-[00:27:46] [Server thread/INFO]: [Not Secure] <troll_face300> no confies en mi pe
-[00:27:54] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> eso
-[00:28:25] [Server thread/WARN]: DaVIcHoz21 moved too quickly! 7.697882738860244,6.998755904397498,2.0169531221454235
-[00:28:32] [Server thread/WARN]: DaVIcHoz21 moved too quickly! 1.3684838694298378,-10.383689771827683,0.5853154824771991
-[00:32:49] [Server thread/WARN]: DaVIcHoz21 moved too quickly! 2.0625747655067244,8.41290296935918,7.932271406967175
-[00:34:49] [Server thread/INFO]: [Not Secure] <troll_face300> duerm
-[00:35:06] [Server thread/INFO]: Lechugaaa17[/127.38.156.73:37619] logged in with entity id 6280 at (-592.8996629736705, 63.0625, -555.2749017755813)
-[00:35:06] [Server thread/INFO]: Lechugaaa17 joined the game
-[00:35:09] [Server thread/INFO]: [Not Secure] <troll_face300> PTM
-[00:35:09] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> xddd
-[00:35:10] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> XDDD
-[00:35:12] [Server thread/INFO]: [Not Secure] <Lechugaaa17> hola chicas
-[00:35:13] [Server thread/INFO]: [Not Secure] <troll_face300> MALDITA LECHUGA
-[00:35:15] [Server thread/INFO]: [Not Secure] <troll_face300> duerme
-[00:35:21] [Server thread/INFO]: [Not Secure] <Lechugaaa17> ya
-[00:36:13] [Server thread/WARN]: DaVIcHoz21 moved too quickly! 12.125531023682925,3.2172061941959313,-2.5366404954688733
-[00:37:26] [Server thread/WARN]: DaVIcHoz21 moved too quickly! 0.4251534616432764,14.386986242278198,0.15457721826624038
-[00:38:49] [Server thread/WARN]: DaVIcHoz21 moved too quickly! 5.244669249279468,5.564515024100771,10.567227367124815
-[00:38:55] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> casi llego
-[00:38:58] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> casiii
-[00:40:11] [Server thread/WARN]: DaVIcHoz21 moved too quickly! 9.259646830950487,5.23257713277679,2.63066840164106
-[00:41:14] [Server thread/WARN]: DaVIcHoz21 was kicked for floating too long!
-[00:41:14] [Server thread/INFO]: DaVIcHoz21 lost connection: Flying is not enabled on this server
-[00:41:14] [Server thread/INFO]: DaVIcHoz21 left the game
-[00:41:14] [Server thread/WARN]: handleDisconnection() called twice
-[00:41:22] [Server thread/INFO]: [Not Secure] <Lechugaaa17> XD
-[00:41:26] [Server thread/INFO]: [Not Secure] <troll_face300> titan
-[00:41:40] [Server thread/INFO]: DaVIcHoz21[/127.198.79.118:50851] logged in with entity id 12618 at (-1368.2403234414369, 68.00133597911214, -1089.8139268428922)
-[00:41:40] [Server thread/INFO]: DaVIcHoz21 joined the game
-[00:41:44] [Server thread/INFO]: [Not Secure] <Lechugaaa17> trititan
-[00:41:49] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> causa
-[00:41:53] [Server thread/INFO]: [Not Secure] <troll_face300> FUNCIONA
-[00:41:56] [Server thread/INFO]: [Not Secure] <troll_face300> FUNCIONAAAAAAAAAA
-[00:41:56] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> GG
-[00:42:02] [Server thread/INFO]: [Not Secure] <troll_face300> JAAAAAAA
-[00:42:02] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> CASI LLEGO
-[00:42:06] [Server thread/INFO]: [Not Secure] <troll_face300> Y NO CREISTE EN MI
-[00:42:12] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> POS NO
-[00:42:14] [Server thread/INFO]: [Not Secure] <Lechugaaa17> a donde llega
-[00:42:14] [Server thread/INFO]: [Not Secure] <Lechugaaa17> xd
-[00:43:25] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-985, y=73, z=-875} class_2338{x=-986, y=71, z=-875}
-[00:44:33] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> VOLVI
-[00:45:06] [Server thread/INFO]: [Not Secure] <troll_face300> aunque la verdad ._.
-[00:45:15] [Server thread/INFO]: [Not Secure] <troll_face300> lo puedo hacer a mano XD
-[00:45:18] [Server thread/INFO]: [Not Secure] <troll_face300> pero igual
-[00:45:21] [Server thread/INFO]: [Not Secure] <Lechugaaa17> tmr on
-[00:45:22] [Server thread/INFO]: [Not Secure] <Lechugaaa17> xd
-[00:45:24] [Server thread/INFO]: [Not Secure] <troll_face300> de que funciona funciona
-[00:45:38] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> TRAIGO BAMBU
-[00:45:42] [Server thread/INFO]: [Not Secure] <troll_face300> yes
-[00:45:48] [Server thread/INFO]: [Not Secure] <troll_face300> porsierto para que era?
-[00:45:56] [Server thread/INFO]: [Not Secure] <Lechugaaa17> se cree panda 💀💀💀💀💀
-[00:46:02] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> granja de creepers
-[00:46:05] [Server thread/INFO]: [Not Secure] <troll_face300> a
-[00:46:06] [Server thread/INFO]: [Not Secure] <troll_face300> ok
-[00:46:18] [Server thread/INFO]: [Not Secure] <Lechugaaa17> duerman chicas
-[00:46:44] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> oe xavi
-[00:46:48] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> entra a discord
-[00:46:50] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> llamada
-[00:46:57] [Server thread/INFO]: [Not Secure] <Lechugaaa17> a
-[00:49:18] [Server thread/INFO]: Lechugaaa17 was burned to a crisp while fighting DaVIcHoz21
-[00:58:44] [Server thread/INFO]: Lechugaaa17 has made the advancement [Fishy Business]
-[01:00:44] [Server thread/INFO]: [Not Secure] <troll_face300> duerman
-[01:01:28] [Server thread/INFO]: [Not Secure] <troll_face300> duerme mano
-[01:01:35] [Server thread/INFO]: [Not Secure] <troll_face300> antes de que los aldeanos mueran
-[01:01:37] [Server thread/INFO]: [Not Secure] <troll_face300> duermeç
-[01:01:38] [Server thread/INFO]: [Not Secure] <troll_face300> duerme
-[01:01:39] [Server thread/INFO]: [Not Secure] <troll_face300> duerme
-[01:01:42] [Server thread/INFO]: [Not Secure] <troll_face300> duermer
-[01:02:21] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> duerman
-[01:02:22] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> llamada
-[01:02:25] [Server thread/INFO]: [Not Secure] <Lechugaaa17> xdd
-[01:02:28] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> duerman
-[01:02:30] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> duerman
-[01:02:32] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> duerman
-[01:02:33] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> duerman
-[01:02:35] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> duerman
-[01:02:36] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> duerman
-[01:02:37] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> duerman
-[01:02:38] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> duerman
-[01:02:39] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> duerman
-[01:03:14] [Server thread/INFO]: Lechugaaa17 lost connection: Disconnected
-[01:03:14] [Server thread/INFO]: Lechugaaa17 left the game
-[01:03:19] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> XDD
-[01:04:25] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> paijdsoi aojdfjalkjlskddjlkahfld kjaspkjdlkajojdnsoajdlkhAOJSAHOJDNSOJHBOJBOJBUGBKHBKJHLKHPOMOPJ'O
-[01:04:35] [Server thread/INFO]: [Not Secure] <troll_face300> deja el titan
-[01:04:45] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> NOOOOOOO
-[01:04:47] [Server thread/INFO]: [Not Secure] <troll_face300> que fue
-[01:04:56] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> EL ULTIMO SUPERVIVIENTE
-[01:05:02] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> SE MURIO PTM
-[01:05:22] [Server thread/INFO]: [Not Secure] <troll_face300> que hablas
-[01:05:24] [Server thread/INFO]: [Not Secure] <troll_face300> aqui esta
-[01:05:27] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> UAJAJA
-[01:05:37] [Server thread/INFO]: [Not Secure] <troll_face300> deja de tocarte de paso
+[01:11:20] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/hardcore5/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[01:11:28] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[01:11:30] [main/INFO]: Loaded 1290 recipes
+[01:11:30] [main/INFO]: Loaded 1399 advancements
+[01:11:31] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[01:11:31] [Server thread/INFO]: Loading properties
+[01:11:31] [Server thread/INFO]: Default game type: SURVIVAL
+[01:11:31] [Server thread/INFO]: Generating keypair
+[01:11:31] [Server thread/INFO]: Starting Minecraft server on *:25565
+[01:11:31] [Server thread/INFO]: Using epoll channel type
+[01:11:31] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[01:11:31] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[01:11:31] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[01:11:31] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[01:11:31] [Server thread/INFO]: Preparing level "world"
+[01:11:36] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[01:11:36] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[01:11:36] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[01:11:36] [Server thread/INFO]: Time elapsed: 578 ms
+[01:11:36] [Server thread/INFO]: Done (4.991s)! For help, type "help"
+[01:17:55] [Server thread/INFO]: troll_face300[/127.153.7.232:51217] logged in with entity id 10 at (-506.4022855247574, 63.9375, -495.60463518859603)
+[01:17:55] [Server thread/INFO]: troll_face300 joined the game
