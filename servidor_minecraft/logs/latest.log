@@ -62,3 +62,12 @@
 [22:40:33] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-115, y=24, z=-61} class_2338{x=-113, y=26, z=-61}
 [22:41:18] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-64, y=74, z=-60} class_2338{x=-64, y=76, z=-60}
 [22:41:40] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-64, y=74, z=-60} class_2338{x=-62, y=75, z=-61}
+[22:43:56] [Server thread/INFO]: DaVIcHoz21 lost connection: Disconnected
+[22:43:56] [Server thread/INFO]: DaVIcHoz21 left the game
+[22:44:14] [Server thread/INFO]: DaVIcHoz21[/127.198.79.118:38107] logged in with entity id 16452 at (-522.8775683258234, 64.875, -498.4112012837781)
+[22:44:14] [Server thread/INFO]: DaVIcHoz21 joined the game
+[22:48:53] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-548, y=65, z=-462} class_2338{x=-551, y=64, z=-464}
+[22:48:53] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-548, y=65, z=-462} class_2338{x=-551, y=64, z=-464}
+[22:48:53] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-548, y=65, z=-462} class_2338{x=-551, y=64, z=-464}
+[22:48:54] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-549, y=65, z=-461} class_2338{x=-548, y=63, z=-460}
+[22:48:54] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-549, y=65, z=-461} class_2338{x=-548, y=63, z=-460}
