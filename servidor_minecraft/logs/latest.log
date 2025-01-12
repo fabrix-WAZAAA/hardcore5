@@ -30,3 +30,12 @@
 [22:02:39] [Server thread/INFO]: troll_face300[/127.153.7.232:37599] logged in with entity id 12 at (-176.6457669488702, 90.23152379758702, -406.1535557840183)
 [22:02:39] [Server thread/INFO]: troll_face300 joined the game
 [22:04:46] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-3, y=68, z=-458} class_2338{x=7, y=68, z=-458}
+[22:14:46] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-509, y=62, z=-540} class_2338{x=-508, y=63, z=-541}
+[22:14:46] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-509, y=62, z=-540} class_2338{x=-508, y=63, z=-541}
+[22:14:46] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-509, y=60, z=-540} class_2338{x=-508, y=63, z=-541}
+[22:17:11] [Server thread/INFO]: DaVIcHoz21 lost connection: Disconnected
+[22:17:11] [Server thread/INFO]: DaVIcHoz21 left the game
+[22:17:42] [Server thread/INFO]: DaVIcHoz21[/127.198.79.118:45115] logged in with entity id 3624 at (-533.496912312722, 64.0, -467.9216775302782)
+[22:17:42] [Server thread/INFO]: DaVIcHoz21 joined the game
+[22:20:36] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-545, y=26, z=-540} class_2338{x=-546, y=24, z=-540}
+[22:21:00] [Server thread/INFO]: DaVIcHoz21 has made the advancement [Hidden in the Depths]
